@@ -1,0 +1,238 @@
+{
+  "id": "mahlane-roast-beef-kamado-grillis-reverse-sear",
+  "title": "Mahlane Roast Beef Kamado grillis (Reverse Sear)",
+  "slug": "mahlane-roast-beef-kamado-grillis-reverse-sear",
+  "description": "Selles retseptis valmistame klassikalise roast beef'i veise antrekoodist või välisfileest. Kasutame reverse sear meetodit ja Blues Hog'i pekaani suitsuklotse, et saavutada ideaalne maitse ja mahlakus.",
+  "video": {
+    "youtubeId": "5IUxjUH3xUQ",
+    "url": "https://www.youtube.com/watch?v=5IUxjUH3xUQ",
+    "title": "Mahlane Roast Beef Kamado grillis (Reverse Sear)",
+    "thumbnailUrl": "https://img.youtube.com/vi/5IUxjUH3xUQ/maxresdefault.jpg",
+    "duration": "",
+    "publishedAt": ""
+  },
+  "meat": {
+    "type": "veis",
+    "cut": "välisfilee",
+    "cutDisplay": "Veise välisfilee (või antrekoot)",
+    "weight": "1.5-2 kg",
+    "notes": "Video näites kasutatakse antrekooti, kuid välisfilee on roast beef'i jaoks soodsam ja väga sobiv valik."
+  },
+  "seasonings": [
+    {
+      "name": "Meat Church Garlic & Herb",
+      "type": "rub",
+      "brand": "Meat Church",
+      "amount": "Vastavalt maitsele",
+      "shopUrl": "https://bbqassad.ee/toode/meat-church-garlic-herb/",
+      "optional": false
+    },
+    {
+      "name": "Blues Hog Sweet & Savory",
+      "type": "rub",
+      "brand": "Blues Hog",
+      "amount": "Vastavalt maitsele",
+      "shopUrl": "https://bbqassad.ee/toode/blues-hog-sweet-and-savory/",
+      "optional": false
+    },
+    {
+      "name": "Blues Hog Pecan Chunks",
+      "type": "muu",
+      "brand": "Blues Hog",
+      "amount": "2-3 klotsi",
+      "shopUrl": "https://bbqassad.ee/toode/blues-hog-pecan-chunks/",
+      "optional": false
+    },
+    {
+      "name": "Oliiviõli",
+      "type": "muu",
+      "brand": "Kalew",
+      "amount": "Paar supilusikatäit",
+      "shopUrl": "",
+      "optional": false
+    },
+    {
+      "name": "Majonees",
+      "type": "muu",
+      "brand": "",
+      "amount": "2 osa",
+      "shopUrl": "",
+      "optional": false
+    },
+    {
+      "name": "Hapukoor",
+      "type": "muu",
+      "brand": "",
+      "amount": "1 osa",
+      "shopUrl": "",
+      "optional": false
+    },
+    {
+      "name": "Mädarõigas",
+      "type": "muu",
+      "brand": "",
+      "amount": "Maitse järgi",
+      "shopUrl": "",
+      "optional": false
+    },
+    {
+      "name": "Sidrunimahl",
+      "type": "muu",
+      "brand": "",
+      "amount": "Sorts",
+      "shopUrl": "",
+      "optional": false
+    }
+  ],
+  "equipment": [
+    "Kamado grill",
+    "Lihatermomeeter",
+    "Terav nuga",
+    "Foolium",
+    "Kuumakindlad kindad"
+  ],
+  "cookingOverview": {
+    "totalTime": "2 tundi 30 minutit",
+    "prepTime": "15 minutit",
+    "cookTime": "2 tundi",
+    "restTime": "15 minutit",
+    "temperature": "115-250°C",
+    "temperaturePhases": [
+      {
+        "temperature": "115°C",
+        "duration": "1.5-2 tundi",
+        "description": "Suitsutamine kaudse kuumusega kuni sisetemperatuurini 55-60°C"
+      },
+      {
+        "temperature": "250°C",
+        "duration": "5-10 minutit",
+        "description": "Searimine otsese kuumusega krõbeda kooriku saamiseks"
+      }
+    ],
+    "difficulty": "keskmine",
+    "servings": 6
+  },
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Liha ettevalmistamine",
+      "description": "Eemalda lihalt üleliigsed kelmed ja rasv. Kasuta teravat nuga, et pind jääks puhas.",
+      "temperature": null,
+      "duration": "5 minutit",
+      "videoTimestamp": 52,
+      "tips": [
+        "Kui kasutad välisfileed, eemalda rasvakiht, et kelmele ligi pääseda."
+      ],
+      "thumbnailUrl": "/images/recipes/mahlane-roast-beef-kamado-grillis-reverse-sear/step-1.jpg"
+    },
+    {
+      "stepNumber": 2,
+      "title": "Maitsestamine",
+      "description": "Määri liha kergelt oliiviõliga. Kanna peale Meat Church Garlic & Herb rub ning seejärel Blues Hog Sweet & Savory rub ilusa värvi andmiseks.",
+      "temperature": null,
+      "duration": "5 minutit",
+      "videoTimestamp": 132,
+      "tips": [
+        "Vajuta maitseained käega kergelt liha sisse, et need paremini nakkuksid."
+      ],
+      "thumbnailUrl": "/images/recipes/mahlane-roast-beef-kamado-grillis-reverse-sear/step-2.jpg"
+    },
+    {
+      "stepNumber": 3,
+      "title": "Grilli ettevalmistus",
+      "description": "Sea grill 115°C kraadi peale. Lisa sütele 2-3 Blues Hog pekaani suitsuklotsi.",
+      "temperature": "115°C",
+      "duration": "10 minutit",
+      "videoTimestamp": 257,
+      "tips": [
+        "Pekaanipuu annab pehme ja magusa suitsumeki, mis sobib veiselihaga suurepäraselt."
+      ],
+      "thumbnailUrl": "/images/recipes/mahlane-roast-beef-kamado-grillis-reverse-sear/step-3.jpg"
+    },
+    {
+      "stepNumber": 4,
+      "title": "Suitsutamine",
+      "description": "Aseta liha grillile kaudsesse kuumusesse. Paigalda lihatermomeeter liha kõige paksemasse kohta.",
+      "temperature": "115°C",
+      "duration": "1.5-2 tundi",
+      "videoTimestamp": 341,
+      "tips": [
+        "Küpseta liha kuni sisetemperatuurini 55-57°C, et saavutada medium küpsusaste."
+      ],
+      "thumbnailUrl": "/images/recipes/mahlane-roast-beef-kamado-grillis-reverse-sear/step-4.jpg"
+    },
+    {
+      "stepNumber": 5,
+      "title": "Kastme valmistamine",
+      "description": "Sega kokku 2 osa majoneesi, 1 osa hapukoort, mädarõigast maitse järgi ja sorts sidrunimahla.",
+      "temperature": null,
+      "duration": "5 minutit",
+      "videoTimestamp": 377,
+      "tips": [
+        "Lase kastmel enne serveerimist külmkapis maitsestuda."
+      ],
+      "thumbnailUrl": "/images/recipes/mahlane-roast-beef-kamado-grillis-reverse-sear/step-5.jpg"
+    },
+    {
+      "stepNumber": 6,
+      "title": "Liha lühike puhkus ja grilli seadistamine",
+      "description": "Kui liha on saavutanud soovitud sisetemperatuuri, võta see grillilt ja mässi fooliumi. Eemalda grillilt deflektorid ja tõsta temperatuur searimiseks.",
+      "temperature": "250°C",
+      "duration": "10 minutit",
+      "videoTimestamp": 583,
+      "tips": [
+        "Reverse sear tähendab, et grillid liha üle alles pärast aeglast küpsetamist."
+      ],
+      "thumbnailUrl": "/images/recipes/mahlane-roast-beef-kamado-grillis-reverse-sear/step-6.jpg"
+    },
+    {
+      "stepNumber": 7,
+      "title": "Searimine (Pruunistamine)",
+      "description": "Aseta liha otse süte kohale ja pruunista seda igast küljest paar minutit, kuni tekib ilus krõbe koorik.",
+      "temperature": "250°C",
+      "duration": "5 minutit",
+      "videoTimestamp": 672,
+      "tips": [
+        "Ole ettevaatlik, sest liha sisetemperatuur tõuseb searimise ajal veelgi."
+      ],
+      "thumbnailUrl": "/images/recipes/mahlane-roast-beef-kamado-grillis-reverse-sear/step-7.jpg"
+    },
+    {
+      "stepNumber": 8,
+      "title": "Lõplik puhkamine",
+      "description": "Mässi liha uuesti fooliumi ja lase vähemalt 10-15 minutit puhata.",
+      "temperature": null,
+      "duration": "15 minutit",
+      "videoTimestamp": 695,
+      "tips": [
+        "Puhkamine laseb lihamahladel jaotuda, et liha jääks lõikamisel mahlane."
+      ],
+      "thumbnailUrl": "/images/recipes/mahlane-roast-beef-kamado-grillis-reverse-sear/step-8.jpg"
+    },
+    {
+      "stepNumber": 9,
+      "title": "Lõikamine ja serveerimine",
+      "description": "Lõika roast beef'ist õhukesed viilud ja serveeri koos valmistatud valge kastmega.",
+      "temperature": null,
+      "duration": "5 minutit",
+      "videoTimestamp": 718,
+      "tips": [
+        "Kasuta väga teravat nuga, et saaksid serveerida võimalikult õhukesed viilud."
+      ],
+      "thumbnailUrl": "/images/recipes/mahlane-roast-beef-kamado-grillis-reverse-sear/step-9.jpg"
+    }
+  ],
+  "tags": [
+    "veis",
+    "välisfilee",
+    "roast beef",
+    "reverse sear",
+    "meat church",
+    "blues hog",
+    "suitsutamine",
+    "pekaan"
+  ],
+  "relatedRecipes": [],
+  "createdAt": "2026-02-08",
+  "updatedAt": "2026-02-08"
+}

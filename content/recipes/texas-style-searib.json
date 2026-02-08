@@ -1,0 +1,244 @@
+{
+  "id": "texas-style-searib",
+  "title": "Texas Style Searib",
+  "slug": "texas-style-searib",
+  "description": "Klassikaline Texas-stiilis searibi, kus rõhk on puhtal lihal, vürtsikal piprasel maitsel ja ideaalsel suitsu-barki tasakaalul. See retsept kasutab erilist pööramistehnikat, et searasv lihast läbi sulaks.",
+  "video": {
+    "youtubeId": "d86-ytafBOg",
+    "url": "https://www.youtube.com/watch?v=d86-ytafBOg",
+    "title": "Texas Style Searib",
+    "thumbnailUrl": "https://img.youtube.com/vi/d86-ytafBOg/maxresdefault.jpg",
+    "duration": "",
+    "publishedAt": ""
+  },
+  "meat": {
+    "type": "siga",
+    "cut": "ribid",
+    "cutDisplay": "Searibi (Swift St. Louis Cut)",
+    "weight": "2 raami (u 2-3kg)",
+    "notes": "Kasutatud on Swifti kvaliteetseid ribiraame"
+  },
+  "seasonings": [
+    {
+      "name": "PitmasterX Texas Rub",
+      "type": "rub",
+      "brand": "PitmasterX",
+      "amount": "Maitse järgi",
+      "shopUrl": "",
+      "optional": false
+    },
+    {
+      "name": "Tuffy Stone Big Umami",
+      "type": "rub",
+      "brand": "Tuffy Stone",
+      "amount": "Maitse järgi",
+      "shopUrl": "",
+      "optional": true
+    },
+    {
+      "name": "Blues Hog Champions Blend",
+      "type": "sauce",
+      "brand": "Blues Hog",
+      "amount": "Glasuurimiseks",
+      "shopUrl": "https://bbqassad.ee/toode/blues-hog-bbq-kaste-champions-blend/",
+      "optional": false
+    },
+    {
+      "name": "Õunasiidri äädikas",
+      "type": "muu",
+      "brand": "Borges",
+      "amount": "Spritzimiseks",
+      "shopUrl": "",
+      "optional": false
+    },
+    {
+      "name": "Worcestershire kaste",
+      "type": "muu",
+      "brand": "Heinz",
+      "amount": "Spritzimiseks",
+      "shopUrl": "",
+      "optional": false
+    },
+    {
+      "name": "Vahtrasiirup",
+      "type": "muu",
+      "brand": "Muu",
+      "amount": "Spritzimiseks",
+      "shopUrl": "",
+      "optional": false
+    }
+  ],
+  "equipment": [
+    "Keraamiline grill (Dreamfire)",
+    "Suitsutusklotsid",
+    "Veepihusti (spritz)",
+    "Foolium",
+    "Termomeeter"
+  ],
+  "cookingOverview": {
+    "totalTime": "u 5-6 tundi",
+    "prepTime": "15 minutit",
+    "cookTime": "4.5 tundi",
+    "restTime": "30-60 minutit",
+    "temperature": "120-135°C",
+    "temperaturePhases": [
+      {
+        "temperature": "120°C",
+        "duration": "1 tund",
+        "description": "Algne suitsutamine madalal kuumusel"
+      },
+      {
+        "temperature": "125°C",
+        "duration": "1 tund",
+        "description": "Kuumuse tõstmine barki tekkeks"
+      },
+      {
+        "temperature": "130°C",
+        "duration": "1 tund",
+        "description": "Ribide pööramine ja kuumuse tõstmine – rasv sulab liha sisse"
+      },
+      {
+        "temperature": "135°C",
+        "duration": "1-1.5 tundi",
+        "description": "Lõplik küpsetamine ja spritzimine"
+      }
+    ],
+    "difficulty": "keskmine",
+    "servings": 4
+  },
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Liha ettevalmistus",
+      "description": "Lõika ribiraamid parajaks ja eemalda üleliigsed ripnevad lihatükid. Erinevalt tavapärasest, jäta seekord ribi tagaküljelt kelme (membraan) eemaldamata.",
+      "temperature": null,
+      "duration": "5 min",
+      "videoTimestamp": 83,
+      "tips": [
+        "Texase stiilis jäetakse tihti kelme alles, et hoida mahlu paremini kinni"
+      ],
+      "thumbnailUrl": "/images/recipes/texas-style-searib/step-1.jpg"
+    },
+    {
+      "stepNumber": 2,
+      "title": "Maitsestamine",
+      "description": "Kanna maitseainesegu (rub) ühtlaselt ribidele. Kasuta Texase stiilis jämedama jahvatusega pipraseid segusid.",
+      "temperature": null,
+      "duration": "5 min",
+      "videoTimestamp": 217,
+      "tips": [
+        "Raputa maitseainet kõrgelt, et see jaotuks ühtlasemalt",
+        "Peale maitsestamist piserda liha kergelt veega, et sool kiiremini sulama hakkaks"
+      ],
+      "thumbnailUrl": "/images/recipes/texas-style-searib/step-2.jpg"
+    },
+    {
+      "stepNumber": 3,
+      "title": "Suitsutamise algus – 120°C",
+      "description": "Pane ribid 120-kraadisesse grillile suitsu kätte. Hoia temperatuur 120°C juures esimese tunni.",
+      "temperature": "120°C",
+      "duration": "1 tund",
+      "videoTimestamp": 366,
+      "tips": [
+        "Esimese tunni jooksul ära grilli kaant ava"
+      ],
+      "thumbnailUrl": "/images/recipes/texas-style-searib/step-3.jpg"
+    },
+    {
+      "stepNumber": 4,
+      "title": "Spritz-vedeliku valmistamine",
+      "description": "Sega kokku õunasiidri äädikas, Worcestershire kaste ja natuke vahtrasiirupit.",
+      "temperature": null,
+      "duration": "5 min",
+      "videoTimestamp": 470,
+      "tips": [
+        "Ära pane siirupit liiga palju, et see pihustit ei ummistaks"
+      ],
+      "thumbnailUrl": "/images/recipes/texas-style-searib/step-4.jpg"
+    },
+    {
+      "stepNumber": 5,
+      "title": "Kuumuse tõstmine – 125°C",
+      "description": "Tõsta grilli temperatuuri 125 kraadini ja jätka küpsetamist veel 1 tund. Bark hakkab kuivama ja kinnistuma.",
+      "temperature": "125°C",
+      "duration": "1 tund",
+      "videoTimestamp": 427,
+      "tips": [
+        "Ära kiirusta pööramisega – lase barkil rahulikult tekkida"
+      ],
+      "thumbnailUrl": "/images/recipes/texas-style-searib/step-5.jpg"
+    },
+    {
+      "stepNumber": 6,
+      "title": "Pööramine ja kuumuse tõstmine – 130°C",
+      "description": "Keera ribid ümber (lihapool alla) ja tõsta temperatuur 130 kraadini. Küpseta veel 1 tund.",
+      "temperature": "130°C",
+      "duration": "1 tund",
+      "videoTimestamp": 427,
+      "tips": [
+        "Ribide pööramine lihapool alla aitab kondivahelisel rasval liha sisse sulada"
+      ],
+      "thumbnailUrl": "/images/recipes/texas-style-searib/step-6.jpg"
+    },
+    {
+      "stepNumber": 7,
+      "title": "Pidev niisutamine",
+      "description": "Keera ribid uuesti õiget pidi. Pihusta ribisid paar korda (iga 30 min) valmistatud vedelikuga. Tõsta temperatuuri 135 kraadini.",
+      "temperature": "135°C",
+      "duration": "1-1.5 tundi",
+      "videoTimestamp": 696,
+      "tips": [
+        "Niisutamine aitab suitsul paremini külge hakata ja väldib äärte kõrbemist"
+      ],
+      "thumbnailUrl": "/images/recipes/texas-style-searib/step-7.jpg"
+    },
+    {
+      "stepNumber": 8,
+      "title": "Glasuurimine ja mähkimine",
+      "description": "Kui ribid on pehmed (kondid hakkavad välja tulema), määri need kokku BBQ kastmega ja mähki fooliumisse.",
+      "temperature": null,
+      "duration": "5 min",
+      "videoTimestamp": 825,
+      "tips": [
+        "Mähki liha tihedalt kahe kihi fooliumi sisse"
+      ],
+      "thumbnailUrl": "/images/recipes/texas-style-searib/step-8.jpg"
+    },
+    {
+      "stepNumber": 9,
+      "title": "Puhkamine",
+      "description": "Lase mähitud ribidel puhata soojas kohas (näiteks termokastis või soojas toas rätiku all).",
+      "temperature": null,
+      "duration": "30-60 min",
+      "videoTimestamp": 885,
+      "tips": [
+        "Puhkamine on ülioluline, et mahlus jaotuks liha sees ühtlaselt"
+      ],
+      "thumbnailUrl": "/images/recipes/texas-style-searib/step-9.jpg"
+    },
+    {
+      "stepNumber": 10,
+      "title": "Lõikamine ja serveerimine",
+      "description": "Lõika ribid kontide vahelt lahti ja serveeri.",
+      "temperature": null,
+      "duration": "5 min",
+      "videoTimestamp": 956,
+      "tips": [],
+      "thumbnailUrl": "/images/recipes/texas-style-searib/step-10.jpg"
+    }
+  ],
+  "tags": [
+    "siga",
+    "ribid",
+    "texas style",
+    "bbq",
+    "suitsutamine",
+    "blues hog",
+    "pitmasterx",
+    "tuffy stone",
+    "dreamfire"
+  ],
+  "relatedRecipes": [],
+  "createdAt": "2026-02-08",
+  "updatedAt": "2026-02-08"
+}

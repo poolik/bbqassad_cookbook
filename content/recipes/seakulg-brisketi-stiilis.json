@@ -1,0 +1,176 @@
+{
+  "id": "seakulg-brisketi-stiilis",
+  "title": "Seakülg Brisketi Stiilis",
+  "slug": "seakulg-brisketi-stiilis",
+  "description": "Selles retseptis valmistame seakülge Kesk-Texase stiilis, täpselt nii nagu tehakse briskeitit. Tulemuseks on mahlane ja maitseküllane liha, mis sobib ideaalselt nii viilutamiseks kui ka takode vahele.",
+  "video": {
+    "youtubeId": "7aoLH06lNKI",
+    "url": "https://www.youtube.com/watch?v=7aoLH06lNKI",
+    "title": "Seakülg Brisketi Stiilis",
+    "thumbnailUrl": "https://img.youtube.com/vi/7aoLH06lNKI/maxresdefault.jpg",
+    "duration": "",
+    "publishedAt": ""
+  },
+  "meat": {
+    "type": "siga",
+    "cut": "seakülg",
+    "cutDisplay": "Seakülg (pork belly)",
+    "weight": "~2 kg",
+    "notes": "Vali mahlane ja paraja rasvakihiga seakülg."
+  },
+  "seasonings": [
+    {
+      "name": "Pitmaster X Texas",
+      "type": "rub",
+      "brand": "Pitmaster X",
+      "amount": "heldelt",
+      "shopUrl": "",
+      "optional": false
+    },
+    {
+      "name": "Meat Church The Gospel",
+      "type": "rub",
+      "brand": "Meat Church",
+      "amount": "heldelt",
+      "shopUrl": "https://bbqassad.ee/toode/meat-church-the-gospel-bbq-rub/",
+      "optional": false
+    },
+    {
+      "name": "Sinep",
+      "type": "muu",
+      "brand": "muu",
+      "amount": "õhuke kiht",
+      "shopUrl": "",
+      "optional": false
+    },
+    {
+      "name": "Blues Hog Original Sauce",
+      "type": "sauce",
+      "brand": "Blues Hog",
+      "amount": "serveerimisel",
+      "shopUrl": "https://bbqassad.ee/toode/blues-hog-original-bbq-sauce-kaste/",
+      "optional": true
+    }
+  ],
+  "equipment": [
+    "BBQ ahi (kamado stiilis)",
+    "Sisetemperatuuri termomeeter",
+    "Foolium",
+    "Terav nuga"
+  ],
+  "cookingOverview": {
+    "totalTime": "4.5 tundi",
+    "prepTime": "30 minutit",
+    "cookTime": "~3 tundi",
+    "restTime": "1 tund",
+    "temperature": "135°C",
+    "targetInternalTemp": "90–91°C",
+    "temperaturePhases": [
+      {
+        "temperature": "135°C",
+        "duration": "~3 tundi",
+        "description": "Suitsutamine ja küpsetamine kuni sisetemperatuur saavutab 90–91°C, rasv on ilusti sulanud ja bark tekkinud."
+      }
+    ],
+    "difficulty": "keskmine",
+    "servings": 6
+  },
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Liha ettevalmistamine",
+      "description": "Lõika seakülg kaheks võrdseks tükiks. Tee kamara sisse risti-rästi sisselõiked (score), et maitseained paremini lihasse tungiksid ja rasv sulaks.",
+      "temperature": null,
+      "duration": "10 min",
+      "videoTimestamp": 38,
+      "tips": [
+        "Ära lõika liha sisse liiga sügavalt, piisab vaid rasvakihi läbistamisest."
+      ],
+      "thumbnailUrl": "/images/recipes/seakulg-brisketi-stiilis/step-1.jpg"
+    },
+    {
+      "stepNumber": 2,
+      "title": "Maitsestamine",
+      "description": "Kata liha esmalt õhukese sinepikihiga, mis toimib maitseainete sidujana. Seejärel puista ühele tükile Pitmaster X Texas maitseainesegu ja teisele Meat Church The Gospel segu.",
+      "temperature": null,
+      "duration": "10 min",
+      "videoTimestamp": 84,
+      "tips": [
+        "Kasuta sinepit ainult õhukeselt, see ei jäta lõpuks sinepi maitset, vaid aitab rubil kleepuda."
+      ],
+      "thumbnailUrl": "/images/recipes/seakulg-brisketi-stiilis/step-2.jpg"
+    },
+    {
+      "stepNumber": 3,
+      "title": "Grilli ettevalmistus",
+      "description": "Pane BBQ ahi sooja ja sea temperatuur 135°C (275°F) peale. Kasuta kaudset kuumust.",
+      "temperature": "135°C",
+      "duration": "20 min",
+      "videoTimestamp": 188,
+      "tips": [
+        "135°C on ideaalne temperatuur searasva sulatamiseks."
+      ],
+      "thumbnailUrl": "/images/recipes/seakulg-brisketi-stiilis/step-3.jpg"
+    },
+    {
+      "stepNumber": 4,
+      "title": "Suitsutamine",
+      "description": "Aseta seakülje tükid grillile. Lisa suitsupuud (õun, kirs või lepp). Küpseta, kuni liha sisetemperatuur on 90–91°C, tekkinud on ilus tume koorik (bark) ja rasv on pehme.",
+      "temperature": "135°C",
+      "duration": "~3 tundi",
+      "videoTimestamp": 268,
+      "tips": [
+        "Vajadusel piserda liha servasid vee või õunaäädikaga, kui need tunduvad liiga kuivad."
+      ],
+      "thumbnailUrl": "/images/recipes/seakulg-brisketi-stiilis/step-4.jpg"
+    },
+    {
+      "stepNumber": 5,
+      "title": "Puhkamine",
+      "description": "Võta liha grillilt, mähi see fooliumisse ja lase vähemalt üks tund puhata.",
+      "temperature": null,
+      "duration": "1 tund",
+      "videoTimestamp": 344,
+      "tips": [
+        "Puhkamine on kriitiline, et lihamahlad jaotuksid ühtlaselt."
+      ],
+      "thumbnailUrl": "/images/recipes/seakulg-brisketi-stiilis/step-5.jpg"
+    },
+    {
+      "stepNumber": 6,
+      "title": "Lõikamine",
+      "description": "Võta liha fooliumist ja lõika sellest terava noaga parajad viilud.",
+      "temperature": null,
+      "duration": "5 min",
+      "videoTimestamp": 427,
+      "tips": [
+        "Seakülg peaks olema nii pehme, et nuga läheb sealt läbi nagu võist."
+      ],
+      "thumbnailUrl": "/images/recipes/seakulg-brisketi-stiilis/step-6.jpg"
+    },
+    {
+      "stepNumber": 7,
+      "title": "Serveerimine",
+      "description": "Serveeri liha soojade tortillade, marineeritud punase sibula, kurgiviilude ja BBQ kastmega.",
+      "temperature": null,
+      "duration": "10 min",
+      "videoTimestamp": 570,
+      "tips": [
+        "Lisa soovi korral ka särtsakat tšillikastet."
+      ],
+      "thumbnailUrl": "/images/recipes/seakulg-brisketi-stiilis/step-7.jpg"
+    }
+  ],
+  "tags": [
+    "siga",
+    "seakülg",
+    "pork-belly",
+    "meat-church",
+    "blues-hog",
+    "suitsutamine",
+    "brisket-style"
+  ],
+  "relatedRecipes": [],
+  "createdAt": "2026-02-08",
+  "updatedAt": "2026-02-08"
+}

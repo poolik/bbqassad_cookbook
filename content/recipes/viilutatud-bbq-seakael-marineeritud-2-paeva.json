@@ -1,0 +1,214 @@
+{
+  "id": "viilutatud-bbq-seakael-marineeritud-2-paeva",
+  "title": "Viilutatud BBQ seakael (Marineeritud 2 päeva)",
+  "slug": "viilutatud-bbq-seakael-marineeritud-2-paeva",
+  "description": "Selle retsepti järgi valmib mahlane ja maitseküllane seakael, mida marineeritakse kaks päeva ning suitsutatakse madalal kuumusel. Tulemuseks on ideaalselt viilutatav BBQ-praad, mis sobib serveerimiseks nii soojalt kui külmalt.",
+  "video": {
+    "youtubeId": "h-e9M9PuIbQ",
+    "url": "https://www.youtube.com/watch?v=h-e9M9PuIbQ",
+    "title": "Viilutatud BBQ seakael (Marineeritud 2 päeva)",
+    "thumbnailUrl": "https://img.youtube.com/vi/h-e9M9PuIbQ/maxresdefault.jpg",
+    "duration": "",
+    "publishedAt": ""
+  },
+  "meat": {
+    "type": "siga",
+    "cut": "kael",
+    "cutDisplay": "Kaelakarree (seakael)",
+    "weight": "3,8 kg",
+    "notes": "Vali võimalikult ühtlase kujuga tükk, et see küpseks ühtlaselt ja oleks pärast mugav viilutada."
+  },
+  "seasonings": [
+    {
+      "name": "Meat Church The Gospel",
+      "type": "rub",
+      "brand": "Meat Church",
+      "amount": "piisavalt katmiseks",
+      "shopUrl": "https://bbqassad.ee/toode/meat-church-the-gospel/",
+      "optional": false
+    },
+    {
+      "name": "Blues Hog Tennessee Red Sauce",
+      "type": "marinade",
+      "brand": "Blues Hog",
+      "amount": "u 250ml",
+      "shopUrl": "https://bbqassad.ee/toode/blues-hog-tennessee-red-sauce/",
+      "optional": false
+    },
+    {
+      "name": "Tuffy Stone The Big Umami",
+      "type": "rub",
+      "brand": "Tuffy Stone",
+      "amount": "kerge kiht",
+      "shopUrl": "",
+      "optional": false
+    },
+    {
+      "name": "Oliiviõli",
+      "type": "muu",
+      "brand": "muu",
+      "amount": "õhuke kiht sidusaineks",
+      "shopUrl": "",
+      "optional": false
+    }
+  ],
+  "equipment": [
+    "Kamado grill",
+    "Suitsutuspuu (kirss)",
+    "Vaakummasin või Ziploc kott",
+    "Liha termomeeter",
+    "Foolium",
+    "Viilutamisnuga"
+  ],
+  "cookingOverview": {
+    "totalTime": "u 56 tundi",
+    "prepTime": "15 min (pluss 2 päeva marineerimist)",
+    "cookTime": "6 tundi",
+    "restTime": "1-2 tundi",
+    "temperature": "120°C",
+    "temperaturePhases": [
+      {
+        "temperature": "120°C",
+        "duration": "6 tundi",
+        "description": "Suitsutamine ilma mähkimata kuni sisetemperatuurini 85°C."
+      }
+    ],
+    "difficulty": "keskmine",
+    "servings": 8
+  },
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Liha ettevalmistus ja trimmitamine",
+      "description": "Lõika seakaelast välja võimalikult ümar ja ühtlane tükk. Eemalda üleliigne rasv ja ebaühtlased servad, et liha küpseks ühtlaselt ja näeks serveerimisel kena välja.",
+      "temperature": null,
+      "duration": "5 min",
+      "videoTimestamp": 50,
+      "tips": [
+        "Trimmitud osadest saad hiljem teha näiteks šašlõkki."
+      ],
+      "thumbnailUrl": "/images/recipes/viilutatud-bbq-seakael-marineeritud-2-paeva/step-1.jpg"
+    },
+    {
+      "stepNumber": 2,
+      "title": "Maitsestamise sidusaine lisamine",
+      "description": "Kata kogu lihapind õhukese oliiviõli kihiga. See aitab kuivadel maitseainetel paremini liha külge kinnituda.",
+      "temperature": null,
+      "duration": "1 min",
+      "videoTimestamp": 185,
+      "tips": [],
+      "thumbnailUrl": "/images/recipes/viilutatud-bbq-seakael-marineeritud-2-paeva/step-2.jpg"
+    },
+    {
+      "stepNumber": 3,
+      "title": "Kuivade maitseainete lisamine",
+      "description": "Kanna lihale esmalt Tuffy Stone Big Umami maitseaine õhuke kiht ning seejärel Meat Church The Gospel rub. Kanna maitseaineid peale kihiti ja rahulikult.",
+      "temperature": null,
+      "duration": "3 min",
+      "videoTimestamp": 200,
+      "tips": [
+        "Ära hõõru maitseaineid liha sisse, vaid vajuta need õrnalt peopesaga kinni."
+      ],
+      "thumbnailUrl": "/images/recipes/viilutatud-bbq-seakael-marineeritud-2-paeva/step-3.jpg"
+    },
+    {
+      "stepNumber": 4,
+      "title": "Marineerimise ettevalmistamine",
+      "description": "Pane maitsestatud liha vaakumkotti või suurde Ziploc kotti ning vala juurde Blues Hog Tennessee Red kaste.",
+      "temperature": null,
+      "duration": "2 min",
+      "videoTimestamp": 330,
+      "tips": [
+        "Tennessee Red kaste on äädikapõhine ja sisaldab suhkrut, mis aitab liha pehmendada ja maitset sügavale viia."
+      ],
+      "thumbnailUrl": "/images/recipes/viilutatud-bbq-seakael-marineeritud-2-paeva/step-4.jpg"
+    },
+    {
+      "stepNumber": 5,
+      "title": "Marineerimine külmikus",
+      "description": "Vakumeeri kott või sulge see õhukindlalt ning aseta liha vähemalt kaheks päevaks külmikusse marineeruma.",
+      "temperature": "külmkapp",
+      "duration": "2 päeva",
+      "videoTimestamp": 380,
+      "tips": [
+        "Suure lihatüki puhul on 2 päeva vajalik, et marinaad jõuaks lihasse imenduda."
+      ],
+      "thumbnailUrl": "/images/recipes/viilutatud-bbq-seakael-marineeritud-2-paeva/step-5.jpg"
+    },
+    {
+      "stepNumber": 6,
+      "title": "Grilli ettevalmistus",
+      "description": "Süüta grill ja seadista see kaudseks küpsetamiseks temperatuurile 120°C. Lisa kirsipuust suitsutusklotsid.",
+      "temperature": "120°C",
+      "duration": "30 min",
+      "videoTimestamp": 435,
+      "tips": [
+        "Kirsipuu suits annab sealiha pinnale ilusa ja isuäratava tumeda värvuse."
+      ],
+      "thumbnailUrl": "/images/recipes/viilutatud-bbq-seakael-marineeritud-2-paeva/step-6.jpg"
+    },
+    {
+      "stepNumber": 7,
+      "title": "Suitsutamine",
+      "description": "Aseta liha otse külmikust grillile. Paigalda termomeeter liha pakseimasse kohta ja alusta suitsutamist. Selles retseptis liha küpsetamise ajal ei mähita.",
+      "temperature": "120°C",
+      "duration": "6 tundi",
+      "videoTimestamp": 504,
+      "tips": [
+        "Külm liha võtab suitsu paremini külge.",
+        "Me ei mässi liha, et säilitada marinaadi poolt tekitatud mahlakus ja saavutada parem bark."
+      ],
+      "thumbnailUrl": "/images/recipes/viilutatud-bbq-seakael-marineeritud-2-paeva/step-7.jpg"
+    },
+    {
+      "stepNumber": 8,
+      "title": "Valmiduse saavutamine",
+      "description": "Küpseta liha seni, kuni selle sisetemperatuur saavutab 85°C. See on ideaalne temperatuur viilutatava sealiha jaoks.",
+      "temperature": "120°C",
+      "duration": "null",
+      "videoTimestamp": 632,
+      "tips": [
+        "Umbes 2.5 tunni peal peaks sisetemperatuur olema u 57°C ringis."
+      ],
+      "thumbnailUrl": "/images/recipes/viilutatud-bbq-seakael-marineeritud-2-paeva/step-8.jpg"
+    },
+    {
+      "stepNumber": 9,
+      "title": "Puhkamine",
+      "description": "Võta liha grillilt, mässi see tihedalt fooliumisse ja lase vähemalt 1-2 tundi puhata soojas kohas.",
+      "temperature": null,
+      "duration": "1-2 tundi",
+      "videoTimestamp": 645,
+      "tips": [
+        "Puhkamine on kriitiline, et lihamahlad stabiliseeruksid ja liha jääks viilutamisel mahlane."
+      ],
+      "thumbnailUrl": "/images/recipes/viilutatud-bbq-seakael-marineeritud-2-paeva/step-9.jpg"
+    },
+    {
+      "stepNumber": 10,
+      "title": "Viilutamine ja serveerimine",
+      "description": "Võta liha fooliumist ja lõika sellest parajad viilud. Serveeri koos praekartuli, kastme või meelepärase BBQ lisandiga.",
+      "temperature": null,
+      "duration": "5 min",
+      "videoTimestamp": 705,
+      "tips": [
+        "Lõika viilud nii, et iga tükiga saaks kaasa ka krõbedat välimist barki."
+      ],
+      "thumbnailUrl": "/images/recipes/viilutatud-bbq-seakael-marineeritud-2-paeva/step-10.jpg"
+    }
+  ],
+  "tags": [
+    "siga",
+    "seakael",
+    "kaelakarree",
+    "meat-church",
+    "blues-hog",
+    "suitsutamine",
+    "bbq",
+    "kamado",
+    "marineerimine"
+  ],
+  "relatedRecipes": [],
+  "createdAt": "2026-02-08",
+  "updatedAt": "2026-02-08"
+}

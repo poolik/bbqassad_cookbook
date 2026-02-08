@@ -1,0 +1,231 @@
+{
+  "id": "party-ribs-kiired-ja-maitsvad-grillribid",
+  "title": "Party Ribs - Kiired ja Maitsvad Grillribid",
+  "slug": "party-ribs-kiired-ja-maitsvad-grillribid",
+  "description": "Mugav ja kiire viis valmistada ribisid, mida on lihtne seltskonnas nautida. Ribid lõigatakse enne küpsetamist lahti, et saada maksimaalne maitse ja mugav serveerimine.",
+  "video": {
+    "youtubeId": "2uO54CYvER8",
+    "url": "https://www.youtube.com/watch?v=2uO54CYvER8",
+    "title": "Party Ribs - Kiired ja Maitsvad Grillribid",
+    "thumbnailUrl": "https://img.youtube.com/vi/2uO54CYvER8/maxresdefault.jpg",
+    "duration": "",
+    "publishedAt": ""
+  },
+  "meat": {
+    "type": "siga",
+    "cut": "ribid",
+    "cutDisplay": "Baby Back ribid",
+    "weight": "2 rida",
+    "notes": "Vali lihasemad ribid, et saaksid mahlasemad suupisted."
+  },
+  "seasonings": [
+    {
+      "name": "Kosmo's Q Original Buffalo Hot Wing Sauce",
+      "type": "muu",
+      "brand": "Kosmo's Q",
+      "amount": "maitse järgi",
+      "shopUrl": "https://bbqassad.ee/toode/kosmos-q-original-buffalo-hot-wing-sauce/",
+      "optional": false
+    },
+    {
+      "name": "Meat Church Dirty Bird",
+      "type": "rub",
+      "brand": "Meat Church",
+      "amount": "liberaalselt",
+      "shopUrl": "https://bbqassad.ee/toode/meat-church-dirty-bird/",
+      "optional": false
+    },
+    {
+      "name": "Blues Hog Champions' Blend",
+      "type": "sauce",
+      "brand": "Blues Hog",
+      "amount": "maitse järgi",
+      "shopUrl": "https://bbqassad.ee/toode/blues-hog-champions-blend-kaste/",
+      "optional": false
+    },
+    {
+      "name": "Blues Hog Tennessee Red",
+      "type": "sauce",
+      "brand": "Blues Hog",
+      "amount": "viimistlemiseks",
+      "shopUrl": "https://bbqassad.ee/toode/blues-hog-tennessee-red-kaste/",
+      "optional": true
+    },
+    {
+      "name": "Või",
+      "type": "muu",
+      "brand": "tundmatu",
+      "amount": "1 pakk",
+      "shopUrl": "",
+      "optional": false
+    },
+    {
+      "name": "Pruun suhkur",
+      "type": "muu",
+      "brand": "tundmatu",
+      "amount": "maitse järgi",
+      "shopUrl": "",
+      "optional": false
+    },
+    {
+      "name": "Õunamahl",
+      "type": "muu",
+      "brand": "Aura",
+      "amount": "põhja katteks",
+      "shopUrl": "",
+      "optional": false
+    }
+  ],
+  "equipment": [
+    "Dreamfire Kamado grill",
+    "Lõikelaud",
+    "Nuga",
+    "Fooliumvann",
+    "Foolium",
+    "Näpitsad"
+  ],
+  "cookingOverview": {
+    "totalTime": "3 tundi",
+    "prepTime": "15 minutit",
+    "cookTime": "2.5 tundi",
+    "restTime": "10 minutit",
+    "temperature": "140°C",
+    "temperaturePhases": [
+      {
+        "temperature": "140°C",
+        "duration": "30-45 min",
+        "description": "Esmalt suitsutamine restil lahtiselt, et liha saaks värvi ja suitsu"
+      },
+      {
+        "temperature": "140°C",
+        "duration": "1-1.5 tundi",
+        "description": "Hautamine fooliumvannis koos või, suhkru ja mahla segu sees"
+      }
+    ],
+    "difficulty": "lihtne",
+    "servings": 6
+  },
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Liha ettevalmistus",
+      "description": "Eemalda ribidelt kelme ja trimmi üleliigne rasv või ebaühtlased servad.",
+      "temperature": null,
+      "duration": "5 min",
+      "videoTimestamp": 53,
+      "tips": [
+        "Kasuta majapidamispaberit kelmest parema haarde saamiseks."
+      ],
+      "thumbnailUrl": "/images/recipes/party-ribs-kiired-ja-maitsvad-grillribid/step-1.jpg"
+    },
+    {
+      "stepNumber": 2,
+      "title": "Ribide lahtilõikamine",
+      "description": "Lõika ribid kontide vahelt lahti üksikuteks tükkideks enne maitsestamist.",
+      "temperature": null,
+      "duration": "5 min",
+      "videoTimestamp": 100,
+      "tips": [
+        "Nii saab iga ribi ühtlaselt maitsestatud ja krõbeda pinna."
+      ],
+      "thumbnailUrl": "/images/recipes/party-ribs-kiired-ja-maitsvad-grillribid/step-2.jpg"
+    },
+    {
+      "stepNumber": 3,
+      "title": "Siduse lisamine",
+      "description": "Kasuta kleepuva kihina teravat kastet, et maitseained paremini liha külge jääksid.",
+      "temperature": null,
+      "duration": "2 min",
+      "videoTimestamp": 431,
+      "tips": [
+        "Terav kaste lisab ribidele mõnusat särtsu."
+      ],
+      "thumbnailUrl": "/images/recipes/party-ribs-kiired-ja-maitsvad-grillribid/step-3.jpg"
+    },
+    {
+      "stepNumber": 4,
+      "title": "Kuivmaitsestamine",
+      "description": "Puista ribid üle Meat Church Dirty Bird maitseaineseguga, kattes kõik küljed.",
+      "temperature": null,
+      "duration": "3 min",
+      "videoTimestamp": 481,
+      "tips": [
+        "Ole maitseainega liberaalne, ribi pind on nüüd suurem."
+      ],
+      "thumbnailUrl": "/images/recipes/party-ribs-kiired-ja-maitsvad-grillribid/step-4.jpg"
+    },
+    {
+      "stepNumber": 5,
+      "title": "Grilli ettevalmistus",
+      "description": "Säti grill 140°C kaudse kuumuse peale ja lisa suitsuklotsid.",
+      "temperature": "140°C",
+      "duration": "15 min",
+      "videoTimestamp": 595,
+      "tips": [
+        "Kõrgem temperatuur aitab rasval kiiremini sulada."
+      ],
+      "thumbnailUrl": "/images/recipes/party-ribs-kiired-ja-maitsvad-grillribid/step-5.jpg"
+    },
+    {
+      "stepNumber": 6,
+      "title": "Esimene küpsetusfaas",
+      "description": "Aseta üksikud ribid grillile nii, et nad omavahel kokku ei puutuks.",
+      "temperature": "140°C",
+      "duration": "45 min",
+      "videoTimestamp": 640,
+      "tips": [
+        "Jälgi, et õhk saaks tükkide vahel vabalt liikuda."
+      ],
+      "thumbnailUrl": "/images/recipes/party-ribs-kiired-ja-maitsvad-grillribid/step-6.jpg"
+    },
+    {
+      "stepNumber": 7,
+      "title": "Fooliumvanni ettevalmistus",
+      "description": "Pane fooliumvanni põhja võiviilud, pruun suhkur, BBQ kaste ja õunamahl.",
+      "temperature": null,
+      "duration": "5 min",
+      "videoTimestamp": 692,
+      "tips": [
+        "Õunamahl tekitab aurustudes mõnusat niiskust."
+      ],
+      "thumbnailUrl": "/images/recipes/party-ribs-kiired-ja-maitsvad-grillribid/step-7.jpg"
+    },
+    {
+      "stepNumber": 8,
+      "title": "Ribide hautamine",
+      "description": "Tõsta ribid grillilt vanni, lisa peale veel võid, suhkrut ja kastet ning kata vann tihedalt fooliumiga.",
+      "temperature": "140°C",
+      "duration": "1.5 tundi",
+      "videoTimestamp": 742,
+      "tips": [
+        "Mida tihedamalt foolium peal on, seda kiirem on protsess."
+      ],
+      "thumbnailUrl": "/images/recipes/party-ribs-kiired-ja-maitsvad-grillribid/step-8.jpg"
+    },
+    {
+      "stepNumber": 9,
+      "title": "Serveerimine",
+      "description": "Võta ribid grillilt, sega neid vanni põhja tekkinud mahladega ja serveeri kuumalt.",
+      "temperature": null,
+      "duration": "5 min",
+      "videoTimestamp": 981,
+      "tips": [
+        "Vanni põhjas olev kaste on parim dipikaste."
+      ],
+      "thumbnailUrl": "/images/recipes/party-ribs-kiired-ja-maitsvad-grillribid/step-9.jpg"
+    }
+  ],
+  "tags": [
+    "siga",
+    "ribid",
+    "meat-church",
+    "blues-hog",
+    "kosmos-q",
+    "kamado",
+    "grillimine",
+    "party-ribs"
+  ],
+  "relatedRecipes": [],
+  "createdAt": "2026-02-08",
+  "updatedAt": "2026-02-08"
+}

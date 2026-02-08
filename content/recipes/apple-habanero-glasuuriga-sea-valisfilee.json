@@ -1,0 +1,192 @@
+{
+  "id": "apple-habanero-glasuuriga-sea-valisfilee",
+  "title": "Apple Habanero glasuuriga sea välisfilee",
+  "slug": "apple-habanero-glasuuriga-sea-valisfilee",
+  "description": "Mahlane ja kergelt vürtsikas sea välisfilee, mis on küpsetatud madalal kuumusel ning glasuuritud õuna-habanero kastmega. Suurepärane valik neile, kes hindavad magusat ja teravat maitsekooslust.",
+  "video": {
+    "youtubeId": "gVIcgVrUk88",
+    "url": "https://www.youtube.com/watch?v=gVIcgVrUk88",
+    "title": "Apple Habanero glasuuriga sea välisfilee",
+    "thumbnailUrl": "https://img.youtube.com/vi/gVIcgVrUk88/maxresdefault.jpg",
+    "duration": "",
+    "publishedAt": ""
+  },
+  "meat": {
+    "type": "siga",
+    "cut": "välisfilee",
+    "cutDisplay": "Sea välisfilee",
+    "weight": "3,3 kg",
+    "notes": "Välisfilee lõigatakse pooleks, et see mahuks paremini grillile ja oleks kergemini käsitletav."
+  },
+  "seasonings": [
+    {
+      "name": "Heath Riles Hot Sauce",
+      "type": "marinade",
+      "brand": "Heath Riles",
+      "amount": "Mõõdukalt (sidusaineks)",
+      "shopUrl": "https://bbqassad.ee/toode/heath-riles/",
+      "optional": false
+    },
+    {
+      "name": "Heath Riles Apple BBQ Rub",
+      "type": "rub",
+      "brand": "Heath Riles",
+      "amount": "Vastavalt maitsele",
+      "shopUrl": "https://bbqassad.ee/toode/heath-riles/",
+      "optional": false
+    },
+    {
+      "name": "Blues Hog Sweet & Savory Rub",
+      "type": "rub",
+      "brand": "Blues Hog",
+      "amount": "Vastavalt maitsele",
+      "shopUrl": "https://bbqassad.ee/toode/blues-hog/",
+      "optional": false
+    },
+    {
+      "name": "Heath Riles Apple Habanero Glaze",
+      "type": "sauce",
+      "brand": "Heath Riles",
+      "amount": "1 pudel",
+      "shopUrl": "https://bbqassad.ee/toode/heath-riles/",
+      "optional": false
+    }
+  ],
+  "equipment": [
+    "Pelletgrill või suitsuahi",
+    "Lihatermomeeter",
+    "Pintsel",
+    "Terav nuga"
+  ],
+  "cookingOverview": {
+    "totalTime": "u 2 tundi",
+    "prepTime": "15 minutit",
+    "cookTime": "1 tund 15 minutit",
+    "restTime": "15-20 minutit",
+    "temperature": "135°C",
+    "temperaturePhases": [
+      {
+        "temperature": "135°C",
+        "duration": "u 50 minutit",
+        "description": "Esmane suitsutamine kuni sisetemperatuurini 52°C"
+      },
+      {
+        "temperature": "135°C",
+        "duration": "25 minutit",
+        "description": "Küpsetamine koos glasuuriga kuni sisetemperatuurini 62°C"
+      }
+    ],
+    "difficulty": "lihtne",
+    "servings": 10
+  },
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Liha ettevalmistus ja trimmimine",
+      "description": "Puhasta sea välisfilee liigsest kelmest. Lõika pikk filee pooleks, et see mahuks paremini lõikelauale ja grillile. Ühele tükile võib jätta rasvakihi mahlakuse hoidmiseks, teine puhastada täielikult.",
+      "temperature": null,
+      "duration": "5 minutit",
+      "videoTimestamp": 104,
+      "tips": [
+        "Rasvakiht aitab hoida liha mahlasemana, kui seda ei mähita küpsetamise ajal."
+      ],
+      "thumbnailUrl": "/images/recipes/apple-habanero-glasuuriga-sea-valisfilee/step-1.jpg"
+    },
+    {
+      "stepNumber": 2,
+      "title": "Sidusaine lisamine",
+      "description": "Kanna lihale ühtlane kiht teravat kastet (hot sauce). See toimib sidusainena, mis aitab maitseainetel paremini liha külge kinnituda.",
+      "temperature": null,
+      "duration": "2 minutit",
+      "videoTimestamp": 214,
+      "tips": [
+        "Terav kaste lisab kerget vürtsi, kuid peamine eesmärk on hoida rub'i paigal."
+      ],
+      "thumbnailUrl": "/images/recipes/apple-habanero-glasuuriga-sea-valisfilee/step-2.jpg"
+    },
+    {
+      "stepNumber": 3,
+      "title": "Maitsestamine",
+      "description": "Kanna lihale esmalt Heath Riles Apple Rub ja seejärel Blues Hog Sweet & Savory segu. Kata liha ühtlaselt igalt küljelt.",
+      "temperature": null,
+      "duration": "3 minutit",
+      "videoTimestamp": 261,
+      "tips": [
+        "Lase maitseainetel enne grillile panemist 10-15 minutit 'higistada' ehk lihasse imbuda."
+      ],
+      "thumbnailUrl": "/images/recipes/apple-habanero-glasuuriga-sea-valisfilee/step-3.jpg"
+    },
+    {
+      "stepNumber": 4,
+      "title": "Grilli ettevalmistus",
+      "description": "Seadista grill või suitsuahi temperatuurile 135°C. Kasuta suitsutamiseks õunapuud, mis sobib sealiha maheda maitsega suurepäraselt.",
+      "temperature": "135°C",
+      "duration": "10 minutit",
+      "videoTimestamp": 366,
+      "tips": [
+        "Õunapuu suits annab lihale ilusa punaka värvuse ja maheda aroomi."
+      ],
+      "thumbnailUrl": "/images/recipes/apple-habanero-glasuuriga-sea-valisfilee/step-4.jpg"
+    },
+    {
+      "stepNumber": 5,
+      "title": "Suitsutamine",
+      "description": "Aseta liha grillile ja lisa lihatermomeeter. Küpseta kaudsel kuumusel, kuni liha sisetemperatuur jõuab 52°C-ni.",
+      "temperature": "135°C",
+      "duration": "50 minutit",
+      "videoTimestamp": 393,
+      "tips": [
+        "Sea välisfilee on väga tailiha, seega on oluline sisetemperatuuri täpselt jälgida."
+      ],
+      "thumbnailUrl": "/images/recipes/apple-habanero-glasuuriga-sea-valisfilee/step-5.jpg"
+    },
+    {
+      "stepNumber": 6,
+      "title": "Glasuurimine",
+      "description": "Kui sisetemperatuur on 52°C, kasta või pintselda liha üle Apple Habanero glasuuriga. Jätka küpsetamist, kuni sisetemperatuur tõuseb 62°C-ni.",
+      "temperature": "135°C",
+      "duration": "25 minutit",
+      "videoTimestamp": 455,
+      "tips": [
+        "Glasuur peab grillil karamelliseeruma ja 'kinni jääma'."
+      ],
+      "thumbnailUrl": "/images/recipes/apple-habanero-glasuuriga-sea-valisfilee/step-6.jpg"
+    },
+    {
+      "stepNumber": 7,
+      "title": "Puhkamine",
+      "description": "Tõsta liha grillilt ja lase sel vähemalt 15-20 minutit puhata. Ära lõika liha kohe lahti, muidu voolavad mahlad välja.",
+      "temperature": null,
+      "duration": "20 minutit",
+      "videoTimestamp": 524,
+      "tips": [
+        "Puhkamine on kriitiline samm mahlase tulemuse saavutamiseks."
+      ],
+      "thumbnailUrl": "/images/recipes/apple-habanero-glasuuriga-sea-valisfilee/step-7.jpg"
+    },
+    {
+      "stepNumber": 8,
+      "title": "Viilutamine ja serveerimine",
+      "description": "Viiluta liha õhukesteks viiludeks. Serveerimisel proovi hammustada nii, et saad kätte nii liha kui ka glasuuri maitse.",
+      "temperature": null,
+      "duration": "5 minutit",
+      "videoTimestamp": 557,
+      "tips": [
+        "Lõika risti lihakiudu, et viilud oleksid pehmemad."
+      ],
+      "thumbnailUrl": "/images/recipes/apple-habanero-glasuuriga-sea-valisfilee/step-8.jpg"
+    }
+  ],
+  "tags": [
+    "siga",
+    "välisfilee",
+    "heath-riles",
+    "blues-hog",
+    "suitsutamine",
+    "bbq",
+    "glasuurimine"
+  ],
+  "relatedRecipes": [],
+  "createdAt": "2026-02-08",
+  "updatedAt": "2026-02-08"
+}

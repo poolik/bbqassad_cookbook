@@ -1,0 +1,30 @@
+{
+  "meatTypes": [
+    { "id": "veis", "label": "Veis" },
+    { "id": "siga", "label": "Siga" },
+    { "id": "kana", "label": "Kana" },
+    { "id": "lammas", "label": "Lammas" }
+  ],
+  "meatCuts": [
+    { "id": "brisket", "label": "Brisket (rinnaosa)", "meatType": "veis" },
+    { "id": "välisfilee", "label": "Välisfilee", "meatType": "veis" },
+    { "id": "ribid", "label": "Ribid", "meatType": "siga" },
+    { "id": "pulled-pork", "label": "Pulled Pork (abaluu)", "meatType": "siga" },
+    { "id": "tiivad", "label": "Tiivad", "meatType": "kana" },
+    { "id": "koivad", "label": "Koivad", "meatType": "kana" },
+    { "id": "karree", "label": "Karree", "meatType": "lammas" }
+  ],
+  "brands": [
+    { "id": "blues-hog", "label": "Blues Hog" },
+    { "id": "meat-church", "label": "Meat Church" },
+    { "id": "kosmos-q", "label": "Kosmo's Q" },
+    { "id": "heath-riles", "label": "Heath Riles" },
+    { "id": "cooklounge", "label": "Cooklounge" }
+  ],
+  "seasoningTypes": [
+    { "id": "rub", "label": "Maitseainesegu" },
+    { "id": "sauce", "label": "Kaste" },
+    { "id": "marinade", "label": "Marinaad" },
+    { "id": "injection", "label": "Süstimine" }
+  ]
+}

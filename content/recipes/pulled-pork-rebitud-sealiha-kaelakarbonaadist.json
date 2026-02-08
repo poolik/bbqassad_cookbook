@@ -1,0 +1,244 @@
+{
+  "id": "pulled-pork-rebitud-sealiha-kaelakarbonaadist",
+  "title": "Pulled Pork (Rebitud sealiha) kaelakarbonaadist",
+  "slug": "pulled-pork-rebitud-sealiha-kaelakarbonaadist",
+  "description": "Klassikaline rebitud sealiha retsept, kus kasutatakse sea kaelakarbonaati. Liha suitsutatakse tamme suitsuga, mähitakse fooliumisse koos magusate lisanditega ja tulemuseks on mahlane ning suus sulav BBQ roog.",
+  "video": {
+    "youtubeId": "3ZEVgPCW5uE",
+    "url": "https://www.youtube.com/watch?v=3ZEVgPCW5uE",
+    "title": "Pulled Pork (Rebitud sealiha) kaelakarbonaadist",
+    "thumbnailUrl": "https://img.youtube.com/vi/3ZEVgPCW5uE/maxresdefault.jpg",
+    "duration": "",
+    "publishedAt": ""
+  },
+  "meat": {
+    "type": "siga",
+    "cut": "pulled-pork",
+    "cutDisplay": "kaelakarbonaat",
+    "weight": "ca 2.5-3 kg",
+    "notes": "Vali hea rasvasisaldusega ja marmorsusega tükk, et liha jääks mahlane."
+  },
+  "seasonings": [
+    {
+      "name": "Extra Light oliiviõli",
+      "type": "muu",
+      "brand": "Muu",
+      "amount": "Vastavalt vajadusele",
+      "shopUrl": "",
+      "optional": false
+    },
+    {
+      "name": "Pulled Pork Rub",
+      "type": "rub",
+      "brand": "BBQ Ässad",
+      "amount": "Külluslikult",
+      "shopUrl": "",
+      "optional": false
+    },
+    {
+      "name": "Või",
+      "type": "muu",
+      "brand": "Muu",
+      "amount": "4-5 viilu",
+      "shopUrl": "",
+      "optional": false
+    },
+    {
+      "name": "Mesi",
+      "type": "muu",
+      "brand": "Muu",
+      "amount": "Maitse järgi",
+      "shopUrl": "",
+      "optional": false
+    },
+    {
+      "name": "Pruun suhkur",
+      "type": "muu",
+      "brand": "Muu",
+      "amount": "Maitse järgi",
+      "shopUrl": "",
+      "optional": false
+    },
+    {
+      "name": "Õunamahl",
+      "type": "muu",
+      "brand": "Muu",
+      "amount": "Sirts peale",
+      "shopUrl": "",
+      "optional": false
+    },
+    {
+      "name": "Original BBQ kaste",
+      "type": "sauce",
+      "brand": "Santa Maria",
+      "amount": "Vastavalt vedeliku kogusele",
+      "shopUrl": "",
+      "optional": false
+    }
+  ],
+  "equipment": [
+    "Grill või suitsuahi",
+    "Tamme suitsuklotsid",
+    "Lihatermomeeter",
+    "Alumiiniumfoolium",
+    "Kuumakindlad kindad"
+  ],
+  "cookingOverview": {
+    "totalTime": "9 tundi",
+    "prepTime": "45 minutit",
+    "cookTime": "7.5 tundi",
+    "restTime": "1 tund",
+    "temperature": "120°C",
+    "temperaturePhases": [
+      {
+        "temperature": "120°C",
+        "duration": "4 tundi",
+        "description": "Suitsutamine tamme suitsuga kuni barki tekkimiseni (u 66°C sisetemp)"
+      },
+      {
+        "temperature": "120°C",
+        "duration": "3.5 tundi",
+        "description": "Küpsetamine fooliumis kuni sihttemperatuurini 95°C"
+      }
+    ],
+    "difficulty": "keskmine",
+    "servings": 10
+  },
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Liha ettevalmistus",
+      "description": "Lõika ära liigne pinnarasv ja eemalda kelmed. Tee lihatükk võimalikult ühtlaseks, et see küpseks igalt poolt võrdselt.",
+      "temperature": null,
+      "duration": "10 min",
+      "videoTimestamp": 73,
+      "tips": [
+        "Liigne rasv takistab suitsu ja maitseainete imendumist.",
+        "Ühtlane kuju väldib peenemate osade üleküpsemist."
+      ],
+      "thumbnailUrl": "/images/recipes/pulled-pork-rebitud-sealiha-kaelakarbonaadist/step-1.jpg"
+    },
+    {
+      "stepNumber": 2,
+      "title": "Maitsestamine",
+      "description": "Kata liha kergelt oliiviõliga (sidusaine). Puista peale külluslikult maitseainesegu. Ära hõõru, vaid vajuta rub käega liha külge kinni.",
+      "temperature": null,
+      "duration": "5 min",
+      "videoTimestamp": 346,
+      "tips": [
+        "Õli asemel võib kasutada ka sinepit.",
+        "Hõõrumine võib maitseained ebaühtlaselt kobarasse ajada."
+      ],
+      "thumbnailUrl": "/images/recipes/pulled-pork-rebitud-sealiha-kaelakarbonaadist/step-2.jpg"
+    },
+    {
+      "stepNumber": 3,
+      "title": "Puhkamine enne küpsetamist",
+      "description": "Lase maitsestatud lihal seista toatemperatuuril u 30 minutit, kuni rub on niiskunud ja suhkur hakkab sulama.",
+      "temperature": "Toatemperatuur",
+      "duration": "30 min",
+      "videoTimestamp": 609,
+      "tips": [
+        "See aitab maitsel lihal püsida ja paremini pruunistuda."
+      ],
+      "thumbnailUrl": "/images/recipes/pulled-pork-rebitud-sealiha-kaelakarbonaadist/step-3.jpg"
+    },
+    {
+      "stepNumber": 4,
+      "title": "Suitsutamine",
+      "description": "Aseta liha grillile 120°C juurde. Kasuta tamme suitsu. Suitsuta kuni sisetemperatuur jõuab u 66°C kraadini ja pinnale on tekkinud ilus 'bark'.",
+      "temperature": "120°C",
+      "duration": "4 tundi",
+      "videoTimestamp": 654,
+      "tips": [
+        "Tamme suits on sealiha puhul klassikaline ja jõuline valik."
+      ],
+      "thumbnailUrl": "/images/recipes/pulled-pork-rebitud-sealiha-kaelakarbonaadist/step-4.jpg"
+    },
+    {
+      "stepNumber": 5,
+      "title": "Mähkimine",
+      "description": "Tõsta liha fooliumile (läikiv pool sisse). Lisa või, mesi, pruun suhkur ja õunamahl. Mähi liha tihedalt kahe kihi fooliumi sisse.",
+      "temperature": null,
+      "duration": "5 min",
+      "videoTimestamp": 725,
+      "tips": [
+        "Mähkimine kiirendab küpsemist ja hoiab liha mahlase.",
+        "Lisa ka lihatermomeeter läbi fooliumi uuesti liha sisse."
+      ],
+      "thumbnailUrl": "/images/recipes/pulled-pork-rebitud-sealiha-kaelakarbonaadist/step-5.jpg"
+    },
+    {
+      "stepNumber": 6,
+      "title": "Jätkuküpsetamine",
+      "description": "Pane mähitud liha tagasi grillile ja küpseta, kuni sisetemperatuur saavutab 95°C.",
+      "temperature": "120°C",
+      "duration": "3.5 tundi",
+      "videoTimestamp": 893,
+      "tips": [
+        "95°C on ideaalne temperatuur, kus liha kiud lagunevad ja liha on kergesti rebitav."
+      ],
+      "thumbnailUrl": "/images/recipes/pulled-pork-rebitud-sealiha-kaelakarbonaadist/step-6.jpg"
+    },
+    {
+      "stepNumber": 7,
+      "title": "Puhkamine",
+      "description": "Tõsta liha grillilt, ava foolium korraks, et aur välja lasta, mähi uuesti kinni ja lase puhata vähemalt 1 tund.",
+      "temperature": null,
+      "duration": "1 tund",
+      "videoTimestamp": 913,
+      "tips": [
+        "Puhkamine laseb mahladel lihas ühtlustuda."
+      ],
+      "thumbnailUrl": "/images/recipes/pulled-pork-rebitud-sealiha-kaelakarbonaadist/step-7.jpg"
+    },
+    {
+      "stepNumber": 8,
+      "title": "Kastme valmistamine",
+      "description": "Kalla fooliumisse tekkinud lihavedelik kastrulisse. Lisa BBQ kastet ja sega läbi. Maitsesta ja lisa vajadusel veel BBQ kastet.",
+      "temperature": null,
+      "duration": "5 min",
+      "videoTimestamp": 976,
+      "tips": [
+        "See on liha 'au jus' ehk oma mahl, mis annab parima maitse."
+      ],
+      "thumbnailUrl": "/images/recipes/pulled-pork-rebitud-sealiha-kaelakarbonaadist/step-8.jpg"
+    },
+    {
+      "stepNumber": 9,
+      "title": "Rebimine ja segamine",
+      "description": "Rebi liha käsitsi (kasutades kuumakindlaid kindaid) tükkideks. Sega liha ettevalmistatud kastmega.",
+      "temperature": null,
+      "duration": "10 min",
+      "videoTimestamp": 1116,
+      "tips": [
+        "Käsitsi rebides säilib parem tekstuur kui kahvlitega tehes.",
+        "Ära rebi liha pudruks, jäta ka suuremaid kiulisi tükke."
+      ],
+      "thumbnailUrl": "/images/recipes/pulled-pork-rebitud-sealiha-kaelakarbonaadist/step-9.jpg"
+    },
+    {
+      "stepNumber": 10,
+      "title": "Serveerimine",
+      "description": "Pane rebitud liha ciabatta vahele koos salati ja tomatiga. Serveeri kohe.",
+      "temperature": null,
+      "duration": "5 min",
+      "videoTimestamp": 1204,
+      "tips": [
+        "Lisa salatit saia alla, et vältida saia liigset vettimist kastmest."
+      ],
+      "thumbnailUrl": "/images/recipes/pulled-pork-rebitud-sealiha-kaelakarbonaadist/step-10.jpg"
+    }
+  ],
+  "tags": [
+    "siga",
+    "kaelakarbonaat",
+    "suitsutamine",
+    "bbq",
+    "pulled-pork",
+    "rebitud-sealiha"
+  ],
+  "relatedRecipes": [],
+  "createdAt": "2026-02-08",
+  "updatedAt": "2026-02-08"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "bbqassad-cookbook",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "npm run typecheck && nuxt build",
+    "typecheck": "nuxi typecheck && tsc --project scripts/tsconfig.json",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "extract": "tsx scripts/extract-recipe.ts",
+    "typecheck:scripts": "tsc --project scripts/tsconfig.json"
+  },
+  "dependencies": {
+    "@google/genai": "^1.40.0",
+    "@nuxt/icon": "^2.2.1",
+    "@primeuix/themes": "^2.0.3",
+    "dotenv": "^17.2.4",
+    "nuxt": "^4.3.1",
+    "primevue": "^4.5.4",
+    "vue": "^3.5.13",
+    "vue-router": "^4.5.0",
+    "zod": "^4.3.6"
+  },
+  "devDependencies": {
+    "@primevue/nuxt-module": "^4.5.4",
+    "@types/node": "^25.2.2",
+    "tsx": "^4.21.0",
+    "typescript": "^5.7.0",
+    "vue-tsc": "^3.2.4"
+  }
+}

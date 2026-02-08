@@ -1,0 +1,150 @@
+/* ===== BBQ Ässad Kokaraamat – Global Styles ===== */
+
+:root {
+  --bbq-primary: #e87a20;
+  --bbq-primary-light: #f09840;
+  --bbq-primary-dark: #c96818;
+  --bbq-accent: #c0392b;
+  --bbq-bg: #0d0d0d;
+  --bbq-surface: #1a1a1a;
+  --bbq-surface-card: #252525;
+  --bbq-surface-hover: #303030;
+  --bbq-text: #f5f5f5;
+  --bbq-text-muted: #a0a0a0;
+  --bbq-border: #333333;
+  --bbq-radius: 12px;
+  --bbq-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
+  --bbq-transition: 0.2s ease;
+}
+
+/* ===== Reset & Base ===== */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  background-color: var(--bbq-bg);
+  color: var(--bbq-text);
+  scroll-behavior: smooth;
+}
+
+body {
+  min-height: 100vh;
+  background-color: var(--bbq-bg);
+  color: var(--bbq-text);
+  line-height: 1.6;
+}
+
+a {
+  color: var(--bbq-primary);
+  text-decoration: none;
+  transition: color var(--bbq-transition);
+}
+
+a:hover {
+  color: var(--bbq-primary-light);
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* ===== PrimeVue Dark Theme Overrides ===== */
+.dark-mode {
+  --p-primary-color: var(--bbq-primary);
+  --p-primary-contrast-color: #ffffff;
+  --p-surface-0: var(--bbq-bg);
+  --p-surface-50: #141414;
+  --p-surface-100: var(--bbq-surface);
+  --p-surface-200: var(--bbq-surface-card);
+  --p-surface-300: var(--bbq-surface-hover);
+  --p-surface-400: #444444;
+  --p-surface-500: #666666;
+  --p-surface-600: #888888;
+  --p-surface-700: #aaaaaa;
+  --p-surface-800: #cccccc;
+  --p-surface-900: var(--bbq-text);
+  --p-surface-950: #ffffff;
+  --p-content-background: var(--bbq-surface);
+  --p-content-border-color: var(--bbq-border);
+  --p-text-color: var(--bbq-text);
+  --p-text-muted-color: var(--bbq-text-muted);
+}
+
+/* ===== Utility Classes ===== */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+.section-title {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  color: var(--bbq-text);
+}
+
+/* ===== Card Styles ===== */
+.card-hover {
+  transition: transform var(--bbq-transition), box-shadow var(--bbq-transition);
+}
+
+.card-hover:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 30px rgba(232, 122, 32, 0.15);
+}
+
+/* ===== Responsive Grid ===== */
+.recipe-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.5rem;
+}
+
+@media (max-width: 640px) {
+  .recipe-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* ===== Scrollbar ===== */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--bbq-surface);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--bbq-border);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--bbq-text-muted);
+}
+
+/* ===== Tag / Badge Overrides ===== */
+.p-tag {
+  font-size: 0.75rem;
+  font-weight: 600;
+}
+
+/* ===== Timeline Overrides ===== */
+.p-timeline .p-timeline-event-connector {
+  background-color: var(--bbq-primary);
+}
+
+.p-timeline .p-timeline-event-marker {
+  border-color: var(--bbq-primary);
+  background-color: var(--bbq-surface);
+}

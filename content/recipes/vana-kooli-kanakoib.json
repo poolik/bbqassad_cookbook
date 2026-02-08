@@ -1,0 +1,196 @@
+{
+  "id": "vana-kooli-kanakoib",
+  "title": "Vana kooli kanakoib",
+  "slug": "vana-kooli-kanakoib",
+  "description": "Mahlased ja krõbedad kanakoivad, mis on valmistatud vana kooli meetodil kõrgel temperatuuril. See retsept keskendub särtsakale maitsele ja magusale glasuurile, pakkudes klassikalist BBQ elamust.",
+  "video": {
+    "youtubeId": "IXmePbUub3I",
+    "url": "https://www.youtube.com/watch?v=IXmePbUub3I",
+    "title": "Vana kooli kanakoib",
+    "thumbnailUrl": "https://img.youtube.com/vi/IXmePbUub3I/maxresdefault.jpg",
+    "duration": "",
+    "publishedAt": ""
+  },
+  "meat": {
+    "type": "kana",
+    "cut": "koivad",
+    "cutDisplay": "Kanakoivad (terved)",
+    "weight": "4 tk",
+    "notes": "Kasutatud on terveid kanakoibi koos kintsuga."
+  },
+  "seasonings": [
+    {
+      "name": "Meat Church The Gospel All-Purpose Rub",
+      "type": "rub",
+      "brand": "Meat Church",
+      "amount": "Maitse järgi",
+      "shopUrl": "https://bbqassad.ee/toode/meat-church-the-gospel-all-purpose-rub/",
+      "optional": false
+    },
+    {
+      "name": "Killer Hogs Hot Sauce",
+      "type": "marinade",
+      "brand": "Killer Hogs",
+      "amount": "Maitse järgi",
+      "shopUrl": "",
+      "optional": false
+    },
+    {
+      "name": "Blues Hog Original BBQ Sauce",
+      "type": "sauce",
+      "brand": "Blues Hog",
+      "amount": "100 ml",
+      "shopUrl": "https://bbqassad.ee/toode/blues-hog-original-bbq-sauce/",
+      "optional": false
+    },
+    {
+      "name": "Aura õunamahl",
+      "type": "muu",
+      "brand": "Aura",
+      "amount": "50 ml",
+      "shopUrl": "",
+      "optional": false
+    }
+  ],
+  "equipment": [
+    "Kamado grill (nt Dreamfire)",
+    "Sisetemperatuuri termomeeter (nt Inkbird)",
+    "Grillitangid",
+    "Silikoonpintsel",
+    "Fooliumist alus"
+  ],
+  "cookingOverview": {
+    "totalTime": "1t 30min",
+    "prepTime": "15min",
+    "cookTime": "1t 10min",
+    "restTime": "5min",
+    "temperature": "180°C",
+    "temperaturePhases": [
+      {
+        "temperature": "180°C",
+        "duration": "50-60min",
+        "description": "Küpsetamine kaudse kuumusega kuni sisetemperatuurini 80°C"
+      },
+      {
+        "temperature": "180°C",
+        "duration": "10-15min",
+        "description": "Glasuurimine ja viimistlemine kuni sisetemperatuurini 84-85°C"
+      }
+    ],
+    "difficulty": "lihtne",
+    "servings": 4
+  },
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Grilli ettevalmistamine",
+      "description": "Seadista grill 180°C peale. Kasuta kahe tsooni meetodit, kus on nii kuum kui ka jahe pool.",
+      "temperature": "180°C",
+      "duration": "15min",
+      "videoTimestamp": 107,
+      "tips": [
+        "180 kraadi on kana jaoks ideaalne temperatuur, et saavutada krõbe nahk."
+      ],
+      "thumbnailUrl": "/images/recipes/vana-kooli-kanakoib/step-1.jpg"
+    },
+    {
+      "stepNumber": 2,
+      "title": "Liha ettevalmistus",
+      "description": "Lõika kanakoibadelt ära liigne rasv ja ripnevad nahaääred. See hoiab ära rasva põlemise kõrgel kuumusel.",
+      "temperature": null,
+      "duration": "5min",
+      "videoTimestamp": 119,
+      "tips": [
+        "Kasuta teravat nuga, et lõiked oleksid puhtad."
+      ],
+      "thumbnailUrl": "/images/recipes/vana-kooli-kanakoib/step-2.jpg"
+    },
+    {
+      "stepNumber": 3,
+      "title": "Maitsestamine",
+      "description": "Kanna koibadele esmalt terav kaste (hot sauce), mis toimib sidusainena. Seejärel raputa peale heldelt maitseainesegu (rub).",
+      "temperature": null,
+      "duration": "5min",
+      "videoTimestamp": 148,
+      "tips": [
+        "Ära karda rubiga liialdada, kuna koivad on suured tükid.",
+        "Kanna maitseaineid mõlemale poolele."
+      ],
+      "thumbnailUrl": "/images/recipes/vana-kooli-kanakoib/step-3.jpg"
+    },
+    {
+      "stepNumber": 4,
+      "title": "Grillimine",
+      "description": "Aseta kanakoivad grillile kaudse kuumuse tsooni. Jälgi, et tükkide vahele jääks veidi õhuruumi.",
+      "temperature": "180°C",
+      "duration": "50min",
+      "videoTimestamp": 331,
+      "tips": [
+        "Aseta nahapool ülespoole.",
+        "Kasuta sisetemperatuuri andurit kintsu kõige paksemas osas."
+      ],
+      "thumbnailUrl": "/images/recipes/vana-kooli-kanakoib/step-4.jpg"
+    },
+    {
+      "stepNumber": 5,
+      "title": "Glasuuri valmistamine",
+      "description": "Sega fooliumist alusel kokku BBQ kaste ja õunamahl. Õunamahl muudab glasuuri vedelamaks ja kergemini pintseldatavaks.",
+      "temperature": null,
+      "duration": "2min",
+      "videoTimestamp": 382,
+      "tips": [
+        "Võid lisada ka ananassimahla, kui soovid troopilisemat maitset."
+      ],
+      "thumbnailUrl": "/images/recipes/vana-kooli-kanakoib/step-5.jpg"
+    },
+    {
+      "stepNumber": 6,
+      "title": "Glasuurimine",
+      "description": "Kui kana sisetemperatuur jõuab 80°C-ni, tõsta glasuuriplaat grillile soojenema ja pintselda koivad üle.",
+      "temperature": "180°C",
+      "duration": "5min",
+      "videoTimestamp": 433,
+      "tips": [
+        "Mõõda temperatuuri kintsust, mitte koivast.",
+        "Soe glasuur nakkub lihaga paremini."
+      ],
+      "thumbnailUrl": "/images/recipes/vana-kooli-kanakoib/step-6.jpg"
+    },
+    {
+      "stepNumber": 7,
+      "title": "Viimistlemine",
+      "description": "Keera koivad ringi ja pintselda ka teine pool. Lase glasuuril paar minutit 'kinnituda'.",
+      "temperature": "180°C",
+      "duration": "10min",
+      "videoTimestamp": 596,
+      "tips": [
+        "Tume liha (koivad) kannatab kõrgemat sisetemperatuuri (kuni 85°C) paremini kui valge liha."
+      ],
+      "thumbnailUrl": "/images/recipes/vana-kooli-kanakoib/step-7.jpg"
+    },
+    {
+      "stepNumber": 8,
+      "title": "Puhkamine ja serveerimine",
+      "description": "Tõsta koivad grillilt ja lase neil 5 minutit puhata. Serveeri soovi korral täiendava glasuuri või dipikastmega.",
+      "temperature": null,
+      "duration": "5min",
+      "videoTimestamp": 669,
+      "tips": [
+        "Puhkamine aitab lihamahladel jaotuda."
+      ],
+      "thumbnailUrl": "/images/recipes/vana-kooli-kanakoib/step-8.jpg"
+    }
+  ],
+  "tags": [
+    "kana",
+    "koivad",
+    "grillimine",
+    "meat-church",
+    "blues-hog",
+    "hot-sauce",
+    "kiire-bbq"
+  ],
+  "relatedRecipes": [],
+  "createdAt": "2026-02-08",
+  "updatedAt": "2026-02-08"
+}

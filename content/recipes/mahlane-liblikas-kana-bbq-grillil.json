@@ -1,0 +1,206 @@
+{
+  "id": "mahlane-liblikas-kana-bbq-grillil",
+  "title": "Mahlane liblikas-kana BBQ grillil",
+  "slug": "mahlane-liblikas-kana-bbq-grillil",
+  "description": "Selles retseptis valmistame terve kana liblikas-meetodil (spatchcock), mis tagab ühtlase küpsemise ja mahlase tulemuse. Kasutame klassikalisi Meat Churchi maitseaineid ja Blues Hog kastmeid täiusliku glasuuri saavutamiseks.",
+  "video": {
+    "youtubeId": "5nRvXGj8WGg",
+    "url": "https://www.youtube.com/watch?v=5nRvXGj8WGg",
+    "title": "Mahlane liblikas-kana BBQ grillil",
+    "thumbnailUrl": "https://img.youtube.com/vi/5nRvXGj8WGg/maxresdefault.jpg",
+    "duration": "",
+    "publishedAt": ""
+  },
+  "meat": {
+    "type": "kana",
+    "cut": "terve-kana",
+    "cutDisplay": "Terve kana",
+    "weight": "1.5-2 kg",
+    "notes": "Vali kvaliteetne ja värske terve kana."
+  },
+  "seasonings": [
+    {
+      "name": "Meat Church Dirty Bird Rub",
+      "type": "rub",
+      "brand": "Meat Church",
+      "amount": "Vastavalt vajadusele",
+      "shopUrl": "https://bbqassad.ee/toode/meat-church-dirty-bird/",
+      "optional": false
+    },
+    {
+      "name": "Blues Hog Original BBQ Sauce",
+      "type": "sauce",
+      "brand": "Blues Hog",
+      "amount": "50 ml",
+      "shopUrl": "https://bbqassad.ee/toode/blues-hog-original/",
+      "optional": false
+    },
+    {
+      "name": "Blues Hog Tennessee Red Sauce",
+      "type": "sauce",
+      "brand": "Blues Hog",
+      "amount": "50 ml",
+      "shopUrl": "https://bbqassad.ee/toode/blues-hog-tennessee-red/",
+      "optional": false
+    },
+    {
+      "name": "Meat Church Dirty Bird Hot",
+      "type": "rub",
+      "brand": "Meat Church",
+      "amount": "Maitse järgi",
+      "shopUrl": "https://bbqassad.ee/toode/meat-church-dirty-bird-hot/",
+      "optional": true
+    }
+  ],
+  "equipment": [
+    "BBQ grill (kamado tüüpi)",
+    "Linnuliha käärid",
+    "Terav nuga",
+    "Sisetemperatuuri termomeeter",
+    "Pintsel"
+  ],
+  "cookingOverview": {
+    "totalTime": "3.5 tundi",
+    "prepTime": "20 minutit",
+    "cookTime": "3 tundi",
+    "restTime": "10 minutit",
+    "temperature": "150°C",
+    "temperaturePhases": [
+      {
+        "temperature": "150°C",
+        "duration": "2.5 tundi",
+        "description": "Suitsutamine lepa suitsuga kuni sisetemperatuurini 69°C"
+      },
+      {
+        "temperature": "150°C",
+        "duration": "30 minutit",
+        "description": "Glasuurimine ja järelküpsetamine kuni sisetemperatuurini 74°C"
+      }
+    ],
+    "difficulty": "lihtne",
+    "servings": 4
+  },
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Selgroo eemaldamine",
+      "description": "Lõika kääridega välja kana selgroog, alustades saba poolt ja liikudes kaela suunas.",
+      "temperature": null,
+      "duration": "5 minutit",
+      "videoTimestamp": 33,
+      "tips": [
+        "Selgroo võid alles hoida puljongi keetmiseks."
+      ],
+      "thumbnailUrl": "/images/recipes/mahlane-liblikas-kana-bbq-grillil/step-1.jpg"
+    },
+    {
+      "stepNumber": 2,
+      "title": "Kana avamine ja puhastamine",
+      "description": "Vajuta kana rinnakule, et see puruneks ja kana jääks lapikuks. Eemalda seestpoolt liigsed kõred ja puhasta ribide piirkond.",
+      "temperature": null,
+      "duration": "5 minutit",
+      "videoTimestamp": 117,
+      "tips": [
+        "Kasuta näppe, et tunda ja eemaldada kõik teravad konditükid."
+      ],
+      "thumbnailUrl": "/images/recipes/mahlane-liblikas-kana-bbq-grillil/step-2.jpg"
+    },
+    {
+      "stepNumber": 3,
+      "title": "Tiibade ja naha korrastamine",
+      "description": "Lõika ära liigsed nahaääred ja rasvad, mis võivad grillil põlema minna.",
+      "temperature": null,
+      "duration": "5 minutit",
+      "videoTimestamp": 277,
+      "tips": [
+        "Mida ühtlasem on kana pind, seda paremini see küpseb."
+      ],
+      "thumbnailUrl": "/images/recipes/mahlane-liblikas-kana-bbq-grillil/step-3.jpg"
+    },
+    {
+      "stepNumber": 4,
+      "title": "Maitsestamine",
+      "description": "Kata kana mõlemalt poolt ühtlaselt Dirty Bird maitseaineseguga. Ära unusta ka tiivaaluseid ja kintsuvahesid.",
+      "temperature": null,
+      "duration": "5 minutit",
+      "videoTimestamp": 400,
+      "tips": [
+        "Dirty Bird rub on üsna vürtsikas, seega doseeri vastavalt oma maitsele.",
+        "Tõsta tiivaotsad rinnafilee taha peitu, et need ära ei kõrbeks."
+      ],
+      "thumbnailUrl": "/images/recipes/mahlane-liblikas-kana-bbq-grillil/step-4.jpg"
+    },
+    {
+      "stepNumber": 5,
+      "title": "Termomeetri paigaldamine",
+      "description": "Sisesta termomeetri sond rinnafilee kõige paksemasse kohta.",
+      "temperature": null,
+      "duration": "1 minut",
+      "videoTimestamp": 600,
+      "tips": [
+        "Jälgi, et sond ei puutuks vastu konti."
+      ],
+      "thumbnailUrl": "/images/recipes/mahlane-liblikas-kana-bbq-grillil/step-5.jpg"
+    },
+    {
+      "stepNumber": 6,
+      "title": "Grillimine ja suitsutamine",
+      "description": "Aseta kana grilli kaudsele kuumusele. Kasuta lepa suitsupuud.",
+      "temperature": "150°C",
+      "duration": "kuni 69°C sisetemp",
+      "videoTimestamp": 641,
+      "tips": [
+        "Hoia grilli temperatuur stabiilsena 150°C juures."
+      ],
+      "thumbnailUrl": "/images/recipes/mahlane-liblikas-kana-bbq-grillil/step-6.jpg"
+    },
+    {
+      "stepNumber": 7,
+      "title": "Glasuuri valmistamine ja pealekandmine",
+      "description": "Sega kokku Blues Hog Original ja Tennessee Red kastmed suhtes 50/50. Kui kana sisetemperatuur on 69°C, määri kana mõlemalt poolt kastmega kokku.",
+      "temperature": "150°C",
+      "duration": "5 minutit",
+      "videoTimestamp": 668,
+      "tips": [
+        "Keera kana korraks ümber, et kaste saaks ka alumisele poolele kanduda."
+      ],
+      "thumbnailUrl": "/images/recipes/mahlane-liblikas-kana-bbq-grillil/step-7.jpg"
+    },
+    {
+      "stepNumber": 8,
+      "title": "Lõppküpsetamine",
+      "description": "Küpseta kana kuni rinnafilee sisetemperatuur on 74°C.",
+      "temperature": "150°C",
+      "duration": "20-30 minutit",
+      "videoTimestamp": 735,
+      "tips": [
+        "74°C on ohutu temperatuur, kus kana jääb veel väga mahlaseks."
+      ],
+      "thumbnailUrl": "/images/recipes/mahlane-liblikas-kana-bbq-grillil/step-8.jpg"
+    },
+    {
+      "stepNumber": 9,
+      "title": "Puhkamine ja serveerimine",
+      "description": "Tõsta kana grillilt ja lase sel vähemalt 10 minutit puhata. Seejärel tükelda ja serveeri.",
+      "temperature": null,
+      "duration": "10 minutit",
+      "videoTimestamp": 769,
+      "tips": [
+        "Puhkamine laseb lihamahladel jaotuda, et kana ei kuivaks lõikamisel."
+      ],
+      "thumbnailUrl": "/images/recipes/mahlane-liblikas-kana-bbq-grillil/step-9.jpg"
+    }
+  ],
+  "tags": [
+    "kana",
+    "liblikas-kana",
+    "terve-kana",
+    "meat-church",
+    "blues-hog",
+    "grillimine",
+    "suitsutamine"
+  ],
+  "relatedRecipes": [],
+  "createdAt": "2026-02-08",
+  "updatedAt": "2026-02-08"
+}
