@@ -1,0 +1,217 @@
+{
+  "id": "rebitud-veise-posk-pulled-beef-cheek",
+  "title": "Rebitud veise põsk (Pulled Beef Cheek)",
+  "slug": "rebitud-veise-posk-pulled-beef-cheek",
+  "description": "Veise põsk on imeline BBQ-tükk, mis nõuab aega, kuid tulemus on sulavalt pehme ja maitseküllane. Selles retseptis suitsutame põske õunapuuga ja hautame Coca-Colas, et saavutada täiuslik rebitav tekstuur.",
+  "video": {
+    "youtubeId": "rNzYBY5ZQGM",
+    "url": "https://www.youtube.com/watch?v=rNzYBY5ZQGM",
+    "title": "Rebitud veise põsk (Pulled Beef Cheek)",
+    "thumbnailUrl": "https://img.youtube.com/vi/rNzYBY5ZQGM/maxresdefault.jpg",
+    "duration": "",
+    "publishedAt": ""
+  },
+  "meat": {
+    "type": "veis",
+    "cut": "muu",
+    "cutDisplay": "Veise põsk",
+    "weight": "1.5-2kg",
+    "notes": "Vali võimalikult paksud ja lihaselised tükid."
+  },
+  "seasonings": [
+    {
+      "name": "Oliiviõli",
+      "type": "muu",
+      "brand": "Oilio",
+      "amount": "Vastavalt vajadusele",
+      "shopUrl": "",
+      "optional": false
+    },
+    {
+      "name": "Heath Riles BBQ Base Rub",
+      "type": "rub",
+      "brand": "Heath Riles",
+      "amount": "Mõõdukalt",
+      "shopUrl": "https://bbqassad.ee/toode/heath-riles/",
+      "optional": false
+    },
+    {
+      "name": "Meat Church Holy Cow",
+      "type": "rub",
+      "brand": "Meat Church",
+      "amount": "Julgelt",
+      "shopUrl": "https://bbqassad.ee/toode/meat-church/",
+      "optional": false
+    },
+    {
+      "name": "Coca-Cola",
+      "type": "muu",
+      "brand": "Coca-Cola",
+      "amount": "300-500ml",
+      "shopUrl": "",
+      "optional": false
+    },
+    {
+      "name": "Blues Hog Smokey Beef Sauce",
+      "type": "sauce",
+      "brand": "Blues Hog",
+      "amount": "Maitse järgi",
+      "shopUrl": "https://bbqassad.ee/toode/blues-hog/",
+      "optional": false
+    }
+  ],
+  "equipment": [
+    "Kamado grill",
+    "Söed",
+    "Õunapuu suitsuklotsid",
+    "Lihatermomeeter",
+    "Alumiiniumist fooliumvann",
+    "Foolium"
+  ],
+  "cookingOverview": {
+    "totalTime": "8 tundi",
+    "prepTime": "20 minutit",
+    "cookTime": "7 tundi",
+    "restTime": "30 minutit",
+    "temperature": "130°C",
+    "temperaturePhases": [
+      {
+        "temperature": "130°C",
+        "duration": "3 tundi",
+        "description": "Suitsutamine kuni barki tekkimiseni (sisetemp u 71-75°C)"
+      },
+      {
+        "temperature": "130°C",
+        "duration": "4 tundi",
+        "description": "Hautamine Coca-Colas mähituna kuni liha on pehme (sisetemp u 98-103°C)"
+      }
+    ],
+    "difficulty": "keskmine",
+    "servings": 6
+  },
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Liha ettevalmistus",
+      "description": "Puhasta veise põsed liigsest kirmest ja rasvast. Eemalda pindmine kelme, et maitseained pääseksid lihani, kuid ära liha täiesti ära raba.",
+      "temperature": null,
+      "duration": "10 min",
+      "videoTimestamp": 52,
+      "tips": [
+        "Põsk on tugev lihas, mis vajab pikaajalist küpsetamist kelmete pehmendamiseks."
+      ],
+      "thumbnailUrl": "/images/recipes/rebitud-veise-posk-pulled-beef-cheek/step-1.jpg"
+    },
+    {
+      "stepNumber": 2,
+      "title": "Sidusaine lisamine",
+      "description": "Määri liha kergelt kokku oliiviõliga, et maitseained paremini kinnituksid.",
+      "temperature": null,
+      "duration": "2 min",
+      "videoTimestamp": 192,
+      "tips": [
+        "Õli aitab kaasa ilusa barki tekkimisele."
+      ],
+      "thumbnailUrl": "/images/recipes/rebitud-veise-posk-pulled-beef-cheek/step-2.jpg"
+    },
+    {
+      "stepNumber": 3,
+      "title": "Maitsestamine",
+      "description": "Kanna esmalt lihale kiht Heath Riles Base rub'i ja seejärel kata julgelt Meat Church Holy Cow maitseaineseguga. Suru maitseained käega õrnalt liha sisse.",
+      "temperature": null,
+      "duration": "5 min",
+      "videoTimestamp": 280,
+      "tips": [
+        "Ära unusta maitsestada ka liha külgi."
+      ],
+      "thumbnailUrl": "/images/recipes/rebitud-veise-posk-pulled-beef-cheek/step-3.jpg"
+    },
+    {
+      "stepNumber": 4,
+      "title": "Grilli ettevalmistus",
+      "description": "Süüta grill ja sea see kaudseks küpsetamiseks 130°C juurde. Lisa sütele õunapuu suitsuklotse.",
+      "temperature": "130°C",
+      "duration": "15 min",
+      "videoTimestamp": 393,
+      "tips": [
+        "Õunapuu annab veiselihale maheda ja magusa suitsumeki."
+      ],
+      "thumbnailUrl": "/images/recipes/rebitud-veise-posk-pulled-beef-cheek/step-4.jpg"
+    },
+    {
+      "stepNumber": 5,
+      "title": "Suitsutamine",
+      "description": "Aseta põsed grillile ja suitsuta neid, kuni pinnale on tekkinud ilus tume koorik (bark). See võtab aega umbes 3 tundi.",
+      "temperature": "130°C",
+      "duration": "3 tundi",
+      "videoTimestamp": 436,
+      "tips": [
+        "Kontrolli sisetemperatuuri - mähkimiseks on sobiv hetk u 71-75°C juures."
+      ],
+      "thumbnailUrl": "/images/recipes/rebitud-veise-posk-pulled-beef-cheek/step-5.jpg"
+    },
+    {
+      "stepNumber": 6,
+      "title": "Mähkimine ja hautamine",
+      "description": "Tõsta põsed fooliumvanni ja vala põhja Coca-Colat. Kata vann tihedalt fooliumiga ja aseta tagasi grillile.",
+      "temperature": "130°C",
+      "duration": "4 tundi",
+      "videoTimestamp": 518,
+      "tips": [
+        "Coca-Cola happesus ja suhkur aitavad liha kiudusid lõhkuda ja hoiavad selle mahlisena.",
+        "Mähkimisel võid lisada ka veisepuljongit või võid."
+      ],
+      "thumbnailUrl": "/images/recipes/rebitud-veise-posk-pulled-beef-cheek/step-6.jpg"
+    },
+    {
+      "stepNumber": 7,
+      "title": "Lõppviimistlus",
+      "description": "Küpseta põski mähituna kuni need on täiesti pehmed (probe tender). Sisetemperatuur peaks jõudma vahemikku 98-103°C.",
+      "temperature": "130°C",
+      "duration": "Kuni valmis",
+      "videoTimestamp": 640,
+      "tips": [
+        "Kasuta termomeetrit nagu katsumisnõela - see peab läbima liha nagu sooja võid."
+      ],
+      "thumbnailUrl": "/images/recipes/rebitud-veise-posk-pulled-beef-cheek/step-7.jpg"
+    },
+    {
+      "stepNumber": 8,
+      "title": "Rebimine ja saucimine",
+      "description": "Tõsta liha vannist, eemalda liigsed rasvatükid ja rebi liha kahe kahvliga või kätega tükkideks. Lisa Blues Hog Smokey Beef kaste ja sega läbi.",
+      "temperature": null,
+      "duration": "10 min",
+      "videoTimestamp": 861,
+      "tips": [
+        "Võid lisada rebitud lihale ka veidi vannis tekkinud Coca-Cola ja lihamahla segu."
+      ],
+      "thumbnailUrl": "/images/recipes/rebitud-veise-posk-pulled-beef-cheek/step-8.jpg"
+    },
+    {
+      "stepNumber": 9,
+      "title": "Serveerimine",
+      "description": "Serveeri rebitud veisepõske burgeri kukli vahel koos salati, tomati ja sibulaga.",
+      "temperature": null,
+      "duration": "5 min",
+      "videoTimestamp": 1005,
+      "tips": [
+        "Rösti kukleid enne serveerimist grillil."
+      ],
+      "thumbnailUrl": "/images/recipes/rebitud-veise-posk-pulled-beef-cheek/step-9.jpg"
+    }
+  ],
+  "tags": [
+    "veis",
+    "veise põsk",
+    "pulled beef",
+    "bbq",
+    "heath riles",
+    "meat church",
+    "blues hog",
+    "coca-cola",
+    "suitsutamine"
+  ],
+  "relatedRecipes": [],
+  "createdAt": "2026-03-07",
+  "updatedAt": "2026-03-07"
+}
