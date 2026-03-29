@@ -1,0 +1,248 @@
+{
+  "id": "heath-rilesi-maailmameistri-ribid",
+  "title": "Heath Rilesi maailmameistri ribid",
+  "slug": "heath-rilesi-maailmameistri-ribid",
+  "description": "See on legendaarne ribiretsept, millega Heath Riles on võitnud mitmeid maailmameistrivõistlusi. Retsept keskendub kihtide kaupa maitsestamisele ja spetsiaalsele mähkimistehnikale, et saavutada täiuslik maitse ja pehmus.",
+  "video": {
+    "youtubeId": "jC_1T7QPjTU",
+    "url": "https://www.youtube.com/watch?v=jC_1T7QPjTU",
+    "title": "Heath Rilesi maailmameistri ribid",
+    "thumbnailUrl": "https://img.youtube.com/vi/jC_1T7QPjTU/maxresdefault.jpg",
+    "duration": "",
+    "publishedAt": ""
+  },
+  "meat": {
+    "type": "siga",
+    "cut": "ribid",
+    "cutDisplay": "Searibid (Swift)",
+    "weight": "1 suur ribiplaat",
+    "notes": "Kasutatud on kvaliteetseid Swifti ribisid, mis on ühtlase rasvasisaldusega."
+  },
+  "seasonings": [
+    {
+      "name": "Kollane sinep",
+      "type": "muu",
+      "brand": "Heinz",
+      "amount": "Vastavalt vajadusele",
+      "shopUrl": "",
+      "optional": false
+    },
+    {
+      "name": "Heath Riles Garlic Jalapeno Rub",
+      "type": "rub",
+      "brand": "Heath Riles",
+      "amount": "Mõõdukalt",
+      "shopUrl": "https://bbqassad.ee/toode/heath-riles/",
+      "optional": false
+    },
+    {
+      "name": "Heath Riles Pecan Rub",
+      "type": "rub",
+      "brand": "Heath Riles",
+      "amount": "Liberaalselt",
+      "shopUrl": "https://bbqassad.ee/toode/heath-riles/",
+      "optional": false
+    },
+    {
+      "name": "Heath Riles Honey Rub",
+      "type": "rub",
+      "brand": "Heath Riles",
+      "amount": "Liberaalselt",
+      "shopUrl": "https://bbqassad.ee/toode/heath-riles/",
+      "optional": false
+    },
+    {
+      "name": "Heath Riles Butter Bath & Wrap",
+      "type": "muu",
+      "brand": "Heath Riles",
+      "amount": "1/4 tassi",
+      "shopUrl": "https://bbqassad.ee/toode/heath-riles/",
+      "optional": false
+    },
+    {
+      "name": "Õunamahl",
+      "type": "muu",
+      "brand": "Aura",
+      "amount": "3/4 tassi",
+      "shopUrl": "",
+      "optional": false
+    },
+    {
+      "name": "Heath Riles Sweet BBQ Sauce",
+      "type": "sauce",
+      "brand": "Heath Riles",
+      "amount": "1 osa",
+      "shopUrl": "https://bbqassad.ee/toode/heath-riles/",
+      "optional": false
+    },
+    {
+      "name": "Heath Riles Tangy Vinegar BBQ Sauce",
+      "type": "sauce",
+      "brand": "Heath Riles",
+      "amount": "1 osa",
+      "shopUrl": "https://bbqassad.ee/toode/heath-riles/",
+      "optional": false
+    }
+  ],
+  "equipment": [
+    "Dreamfire Smoke II keraamiline grill",
+    "Kirsipuu suitsuklotsid",
+    "Foolium",
+    "Lihatermomeeter",
+    "Pintsel",
+    "Shaker",
+    "Nuga"
+  ],
+  "cookingOverview": {
+    "totalTime": "u 4-5 tundi",
+    "prepTime": "30 min",
+    "cookTime": "u 4 tundi",
+    "restTime": "15 min",
+    "temperature": "135-140°C",
+    "temperaturePhases": [
+      {
+        "temperature": "135-140°C",
+        "duration": "u 2.5 tundi",
+        "description": "Esmane suitsutamine kuni barki tekkimiseni"
+      },
+      {
+        "temperature": "140°C",
+        "duration": "u 1 tund",
+        "description": "Küpsetamine fooliumisse mähitult pehmuseni"
+      },
+      {
+        "temperature": "140°C",
+        "duration": "15 min",
+        "description": "Kastme kinnistamine grillil"
+      }
+    ],
+    "difficulty": "keskmine",
+    "servings": 2
+  },
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Ribi ettevalmistus",
+      "description": "Eemalda ribidelt kelme. Lõika ribid võistlusstiilis ühtlaseks, eemaldades üleliigsed lihaservad ja kondid, et plaat oleks sümmeetriline.",
+      "temperature": null,
+      "duration": "15 min",
+      "videoTimestamp": 229,
+      "tips": [
+        "Võistlusstiilis lõigates jääb plaat u 9 kondi pikkuseks.",
+        "Kelme eemaldamiseks kasuta majapidamispaberit parema haarde saamiseks."
+      ],
+      "thumbnailUrl": "/images/recipes/heath-rilesi-maailmameistri-ribid/step-1.jpg"
+    },
+    {
+      "stepNumber": 2,
+      "title": "Maitsestamise esimene faas",
+      "description": "Määri ribid õhukese kihiga kollase sinepiga, mis toimib maitseainete liimina. Puista peale esimene kiht Garlic Jalapeno rubi ühtlase kihina.",
+      "temperature": null,
+      "duration": "5 min",
+      "videoTimestamp": 450,
+      "tips": [
+        "Sinep ei anna lõppmaitset, vaid aitab rubil kinnituda."
+      ],
+      "thumbnailUrl": "/images/recipes/heath-rilesi-maailmameistri-ribid/step-2.jpg"
+    },
+    {
+      "stepNumber": 3,
+      "title": "Maitsestamise teine ja kolmas kiht",
+      "description": "Lisa liberaalselt Pecan rubi (magusus ja värv) ning seejärel Honey rubi. Suru maitseained kergelt liha sisse. Korda protsessi mõlemal poolel.",
+      "temperature": null,
+      "duration": "5 min",
+      "videoTimestamp": 511,
+      "tips": [
+        "Lase lihal seista u 15-20 minutit enne grillile panekut, et maitseained \"higistaksid\" sisse."
+      ],
+      "thumbnailUrl": "/images/recipes/heath-rilesi-maailmameistri-ribid/step-3.jpg"
+    },
+    {
+      "stepNumber": 4,
+      "title": "Suitsutamine",
+      "description": "Aseta ribid kirsipuu suitsuga grilli. Suru ribiplaati otstest kergelt kokku, et see jääks paksem ja mahlakam.",
+      "temperature": "135-140°C",
+      "duration": "2 - 2.5 tundi",
+      "videoTimestamp": 655,
+      "tips": [
+        "Ära pritsi ega ava kaant esimese 2 tunni jooksul.",
+        "Kontrolli bark'i (kooriku) kinnitumist enne mähkimist."
+      ],
+      "thumbnailUrl": "/images/recipes/heath-rilesi-maailmameistri-ribid/step-4.jpg"
+    },
+    {
+      "stepNumber": 5,
+      "title": "Mähkimisvedeliku valmistamine",
+      "description": "Sega shakeris 1/4 tassi Butter Bath pulbrit ja 3/4 tassi õunamahla. Loksuta korralikult läbi.",
+      "temperature": null,
+      "duration": "2 min",
+      "videoTimestamp": 696,
+      "tips": [
+        "Seda segu võib kasutada ka teiste lihadega mähkimisel."
+      ],
+      "thumbnailUrl": "/images/recipes/heath-rilesi-maailmameistri-ribid/step-5.jpg"
+    },
+    {
+      "stepNumber": 6,
+      "title": "Fooliumi mähkimine",
+      "description": "Võta topeltkiht fooliumi. Puista fooliumile Honey rubi, aseta ribi liha pool allapoole. Lisa mähkimisvedelik ja sule foolium õhukindlalt.",
+      "temperature": "140°C",
+      "duration": "u 1 tund",
+      "videoTimestamp": 915,
+      "tips": [
+        "Jälgi, et kondid ei torkaks fooliumi katki.",
+        "Ribi on valmis, kui sisetemperatuur on u 98°C ja liha tundub pehme."
+      ],
+      "thumbnailUrl": "/images/recipes/heath-rilesi-maailmameistri-ribid/step-6.jpg"
+    },
+    {
+      "stepNumber": 7,
+      "title": "Kastme ettevalmistus",
+      "description": "Sega kokku võrdsed osad Sweet BBQ ja Tangy Vinegar BBQ kastet. Pane segu grillile u 10 minutiks soojenema.",
+      "temperature": "140°C",
+      "duration": "10 min",
+      "videoTimestamp": 1115,
+      "tips": [
+        "Soe kaste kinnistub liha külge paremini kui külm."
+      ],
+      "thumbnailUrl": "/images/recipes/heath-rilesi-maailmameistri-ribid/step-7.jpg"
+    },
+    {
+      "stepNumber": 8,
+      "title": "Glasuurimine ja lõpetamine",
+      "description": "Võta ribid fooliumist välja, aseta restile ja pintselda sooja BBQ-seguga. Lase grillil 15 minutit kastmel kinnistuda.",
+      "temperature": "140°C",
+      "duration": "15 min",
+      "videoTimestamp": 1225,
+      "tips": [
+        "Kaste peab jääma läikiv ja kleepuv, mitte ära kõrbema."
+      ],
+      "thumbnailUrl": "/images/recipes/heath-rilesi-maailmameistri-ribid/step-8.jpg"
+    },
+    {
+      "stepNumber": 9,
+      "title": "Serveerimine",
+      "description": "Lõika ribid kontide vahelt lahti ja serveeri kohe.",
+      "temperature": null,
+      "duration": "5 min",
+      "videoTimestamp": 1324,
+      "tips": [
+        "Võistlusel serveeritakse 6 ühtlast keskmist tükki."
+      ],
+      "thumbnailUrl": "/images/recipes/heath-rilesi-maailmameistri-ribid/step-9.jpg"
+    }
+  ],
+  "tags": [
+    "siga",
+    "ribid",
+    "suitsutamine",
+    "heath riles",
+    "butter bath",
+    "competition ribs",
+    "searibi",
+    "bbq kaste"
+  ],
+  "relatedRecipes": [],
+  "createdAt": "2026-03-29",
+  "updatedAt": "2026-03-29"
+}

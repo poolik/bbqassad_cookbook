@@ -1,0 +1,255 @@
+{
+  "id": "mahlane-eesti-ribiplaat-bbq-ahjus",
+  "title": "Mahlane Eesti ribiplaat BBQ ahjus",
+  "slug": "mahlane-eesti-ribiplaat-bbq-ahjus",
+  "description": "Selles retseptis õpime, kuidas valmistada klassikalist ja sageli õhukest Eesti ribiplaati nii, et see jääks mahlane ja maitseküllane. Kasutame spetsiaalset tehnikat liha kokkulükkamiseks ja kvaliteetseid Heath Rilesi ning Kosmo's Q maitseaineid.",
+  "video": {
+    "youtubeId": "tkqfho6gGlA",
+    "url": "https://www.youtube.com/watch?v=tkqfho6gGlA",
+    "title": "Mahlane Eesti ribiplaat BBQ ahjus",
+    "thumbnailUrl": "https://img.youtube.com/vi/tkqfho6gGlA/maxresdefault.jpg",
+    "duration": "",
+    "publishedAt": ""
+  },
+  "meat": {
+    "type": "siga",
+    "cut": "ribid",
+    "cutDisplay": "Eesti ribiplaat (Rakvere)",
+    "weight": "1.5 kg",
+    "notes": "Tavaline poe ribiplaat, mis on sageli üsna õhuke ja kondine."
+  },
+  "seasonings": [
+    {
+      "name": "Heath Riles Garlic Jalapeno Rub",
+      "type": "rub",
+      "brand": "Heath Riles",
+      "amount": "Maitse järgi",
+      "shopUrl": "https://bbqassad.ee/toode/garlic-jalapeno-rub-heath-riles-bbq/",
+      "optional": false
+    },
+    {
+      "name": "Heath Riles Competition BBQ Rub",
+      "type": "rub",
+      "brand": "Heath Riles",
+      "amount": "Maitse järgi",
+      "shopUrl": "https://bbqassad.ee/toode/competition-bbq-rub-heath-riles-bbq/",
+      "optional": false
+    },
+    {
+      "name": "Kosmo's Q Original Competition Sauce",
+      "type": "sauce",
+      "brand": "Kosmo's Q",
+      "amount": "100 ml",
+      "shopUrl": "https://bbqassad.ee/toode/original-competition-bbq-sauce-kosmos-q/",
+      "optional": false
+    },
+    {
+      "name": "Toiduõli",
+      "type": "muu",
+      "brand": "Muu",
+      "amount": "Väike kogus",
+      "shopUrl": "",
+      "optional": false
+    },
+    {
+      "name": "Või",
+      "type": "muu",
+      "brand": "Muu",
+      "amount": "100 g",
+      "shopUrl": "",
+      "optional": false
+    },
+    {
+      "name": "Pruun suhkur",
+      "type": "muu",
+      "brand": "Muu",
+      "amount": "4 spl",
+      "shopUrl": "",
+      "optional": false
+    },
+    {
+      "name": "Mesi",
+      "type": "muu",
+      "brand": "Muu",
+      "amount": "2 spl",
+      "shopUrl": "",
+      "optional": false
+    },
+    {
+      "name": "Õunamahl",
+      "type": "muu",
+      "brand": "Muu",
+      "amount": "150 ml",
+      "shopUrl": "",
+      "optional": false
+    }
+  ],
+  "equipment": [
+    "BBQ ahi või grill",
+    "Lihatermomeeter",
+    "Foolium",
+    "Kastrul",
+    "Pintsel",
+    "Nuga"
+  ],
+  "cookingOverview": {
+    "totalTime": "4 tundi",
+    "prepTime": "45 min",
+    "cookTime": "3 tundi",
+    "restTime": "15 min",
+    "temperature": "120°C",
+    "temperaturePhases": [
+      {
+        "temperature": "120°C",
+        "duration": "2 tundi",
+        "description": "Suitsutamine lepapuuga kuni ilusa värvi saavutamiseni."
+      },
+      {
+        "temperature": "120°C",
+        "duration": "1 tund",
+        "description": "Küpsemine fooliumis koos lisanditega."
+      },
+      {
+        "temperature": "120°C",
+        "duration": "5-10 min",
+        "description": "Glasuuri kinnistamine grillil."
+      }
+    ],
+    "difficulty": "keskmine",
+    "servings": 4
+  },
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Ribi puhastamine ja trimmimine",
+      "description": "Lõika ribiplaat sobivasse suurusse (u 9 konti), et see mahuks hästi grillile. Eemalda üleliigne rasv ja krõmpskondid ribi alumisest servast.",
+      "temperature": null,
+      "duration": "10 min",
+      "videoTimestamp": 49,
+      "tips": [
+        "Eemaldatud liha- ja krõmpsukondid sobivad suurepäraselt eraldi küpsetamiseks snäkina."
+      ],
+      "thumbnailUrl": "/images/recipes/mahlane-eesti-ribiplaat-bbq-ahjus/step-1.jpg"
+    },
+    {
+      "stepNumber": 2,
+      "title": "Kelme eemaldamine",
+      "description": "Kasuta nuga ja köögipaberit, et eemaldada ribiplaadi siseküljelt kelme. See tagab, et maitseained imbuksid paremini ja ribi ei jääks kummine.",
+      "temperature": null,
+      "duration": "5 min",
+      "videoTimestamp": 145,
+      "tips": [
+        "Kasuta nurgast alustamiseks nürimat nuga ja haaramiseks paberit."
+      ],
+      "thumbnailUrl": "/images/recipes/mahlane-eesti-ribiplaat-bbq-ahjus/step-2.jpg"
+    },
+    {
+      "stepNumber": 3,
+      "title": "Maitsestamine",
+      "description": "Määri ribi kerge kihi toiduõliga, mis toimib maitseainete sidujana. Puista peale Garlic Jalapeno rub ja seejärel Competition BBQ rub. Vajuta maitseained kergelt liha sisse, ära hõõru.",
+      "temperature": null,
+      "duration": "10 min",
+      "videoTimestamp": 312,
+      "tips": [
+        "Kuna Eesti ribi on õhuke, kasuta maitseaineid mõõdukalt, et soolasus üle ei käiks."
+      ],
+      "thumbnailUrl": "/images/recipes/mahlane-eesti-ribiplaat-bbq-ahjus/step-3.jpg"
+    },
+    {
+      "stepNumber": 4,
+      "title": "Liha puhkamine",
+      "description": "Lase maitsestatud ribil umbes 30 minutit toatemperatuuril seista, et maitseained kinnistuksid.",
+      "temperature": "20°C",
+      "duration": "30 min",
+      "videoTimestamp": 410,
+      "tips": [
+        "Oota, kuni rub muutub liha pinnal niiskeks ehk 'higi' tekib."
+      ],
+      "thumbnailUrl": "/images/recipes/mahlane-eesti-ribiplaat-bbq-ahjus/step-4.jpg"
+    },
+    {
+      "stepNumber": 5,
+      "title": "Suitsutamine",
+      "description": "Aseta ribid 120°C eelkuumutatud BBQ ahju. Kasuta suitsutamiseks lepapuud. Lükka ribid restil kokku, et liha pakseneks kontide vahel.",
+      "temperature": "120°C",
+      "duration": "2 tundi",
+      "videoTimestamp": 422,
+      "tips": [
+        "Ribide kokkulükkamine takistab nende liigset kuivamist."
+      ],
+      "thumbnailUrl": "/images/recipes/mahlane-eesti-ribiplaat-bbq-ahjus/step-5.jpg"
+    },
+    {
+      "stepNumber": 6,
+      "title": "Mähkimine fooliumisse",
+      "description": "Võta ribi ahjust. Aseta fooliumile võitükid, pruun suhkur, mesi ja BBQ kaste. Pane ribi plaat sisekülg ülespoole lisandite peale ja lisa veidi õunamahla. Mähi tihedalt fooliumisse.",
+      "temperature": "120°C",
+      "duration": "1 tund",
+      "videoTimestamp": 451,
+      "tips": [
+        "Lisa õunamahl viimasena fooliumi servast, et mitte rubi maha pesta."
+      ],
+      "thumbnailUrl": "/images/recipes/mahlane-eesti-ribiplaat-bbq-ahjus/step-6.jpg"
+    },
+    {
+      "stepNumber": 7,
+      "title": "Glasuuri valmistamine",
+      "description": "Sulata kastrulis või, lisa Kosmo's Q BBQ kaste ja veidi õunamahla. Sega ja kuumuta, kuni kaste on ühtlane ja piisavalt vedel pintseldamiseks.",
+      "temperature": "80°C",
+      "duration": "10 min",
+      "videoTimestamp": 621,
+      "tips": [
+        "Glasuur peab olema piisavalt vedel, et see ei jääks paksuks kleepuvaks kihiks."
+      ],
+      "thumbnailUrl": "/images/recipes/mahlane-eesti-ribiplaat-bbq-ahjus/step-7.jpg"
+    },
+    {
+      "stepNumber": 8,
+      "title": "Glasuurimine",
+      "description": "Eemalda ribi fooliumist, kui sisetemperatuur on u 90-91°C. Pintselda ribi mõlemalt poolt valmistatud glasuuriga.",
+      "temperature": "120°C",
+      "duration": "5 min",
+      "videoTimestamp": 735,
+      "tips": [
+        "Ribi on valmis, kui katsudes on liha pehme ja 'voolav'."
+      ],
+      "thumbnailUrl": "/images/recipes/mahlane-eesti-ribiplaat-bbq-ahjus/step-8.jpg"
+    },
+    {
+      "stepNumber": 9,
+      "title": "Glasuuri kinnistamine",
+      "description": "Aseta glasuuritud ribi ilma fooliumita veel 5-10 minutiks ahju, et kaste 'kinnituks' ja muutuks läikivaks.",
+      "temperature": "120°C",
+      "duration": "5 min",
+      "videoTimestamp": 818,
+      "tips": [
+        "Jälgi, et kaste ei hakkaks kõrbema."
+      ],
+      "thumbnailUrl": "/images/recipes/mahlane-eesti-ribiplaat-bbq-ahjus/step-9.jpg"
+    },
+    {
+      "stepNumber": 10,
+      "title": "Serveerimine",
+      "description": "Võta ribi ahjust, lase 10-15 minutit puhata ja lõika kontide vahelt lahti. Serveeri kohe.",
+      "temperature": null,
+      "duration": "15 min",
+      "videoTimestamp": 824,
+      "tips": [
+        "Lõika ribi siseküljelt, nii näed paremini kontide asukohta."
+      ],
+      "thumbnailUrl": "/images/recipes/mahlane-eesti-ribiplaat-bbq-ahjus/step-10.jpg"
+    }
+  ],
+  "tags": [
+    "siga",
+    "ribid",
+    "suitsutamine",
+    "eesti ribi",
+    "heath-riles",
+    "kosmos-q",
+    "bbq"
+  ],
+  "relatedRecipes": [],
+  "createdAt": "2026-03-29",
+  "updatedAt": "2026-03-29"
+}
