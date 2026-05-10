@@ -1,0 +1,229 @@
+{
+  "id": "maitsvad-ja-mahlased-sealiha-ribid",
+  "title": "Maitsvad ja Mahlased Sealiha Ribid",
+  "slug": "maitsvad-ja-mahlased-sealiha-ribid",
+  "description": "Selles videos valmistame mahlaseid ja maitsvaid sealiha ribisid, kasutades kahte erinevat maitseainet: Killer Hogs Rib Rub ja Barbacoa The Champ. Näitame teile samm-sammult, kuidas ribisid ette valmistada, maitsestada ja grillida täiusliku tulemuseni.",
+  "video": {
+    "youtubeId": "YFBlsKbsBeA",
+    "url": "https://www.youtube.com/watch?v=YFBlsKbsBeA",
+    "title": "Maitsvad ja Mahlased Sealiha Ribid",
+    "thumbnailUrl": "https://img.youtube.com/vi/YFBlsKbsBeA/maxresdefault.jpg",
+    "duration": "",
+    "publishedAt": ""
+  },
+  "meat": {
+    "type": "siga",
+    "cut": "ribid",
+    "cutDisplay": "Sealiha ribid",
+    "weight": "2 rida ribisid",
+    "notes": "Kasutati Swift sealiha ribisid."
+  },
+  "seasonings": [
+    {
+      "name": "Killer Hogs Rib Rub",
+      "type": "rub",
+      "brand": "Killer Hogs",
+      "amount": "Vastavalt vajadusele",
+      "shopUrl": "",
+      "optional": false
+    },
+    {
+      "name": "Barbacoa The Champ Chicken and Ribs Rub",
+      "type": "rub",
+      "brand": "Barbacoa",
+      "amount": "Vastavalt vajadusele",
+      "shopUrl": "",
+      "optional": false
+    },
+    {
+      "name": "Olio Oliiviõli",
+      "type": "muu",
+      "brand": "Olio",
+      "amount": "Vastavalt vajadusele",
+      "shopUrl": "",
+      "optional": false
+    },
+    {
+      "name": "Või",
+      "type": "muu",
+      "brand": "Tundmatu",
+      "amount": "Mõned viilud",
+      "shopUrl": "",
+      "optional": false
+    },
+    {
+      "name": "Pruun suhkur",
+      "type": "muu",
+      "brand": "Tundmatu",
+      "amount": "Vastavalt vajadusele",
+      "shopUrl": "",
+      "optional": false
+    },
+    {
+      "name": "Blues Hog Tennessee Red Sauce",
+      "type": "sauce",
+      "brand": "Blues Hog",
+      "amount": "Vastavalt vajadusele",
+      "shopUrl": "https://bbqassad.ee/toode/blues-hog-tennessee-red-sauce/",
+      "optional": false
+    },
+    {
+      "name": "Blues Hog Original Sauce",
+      "type": "sauce",
+      "brand": "Blues Hog",
+      "amount": "Vastavalt vajadusele",
+      "shopUrl": "https://bbqassad.ee/toode/blues-hog-original-sauce/",
+      "optional": false
+    }
+  ],
+  "equipment": [
+    "Dreamfire Smoky 2 grill",
+    "Alumiiniumfoolium",
+    "Lihatermomeeter",
+    "Pintsel",
+    "Nuga"
+  ],
+  "cookingOverview": {
+    "totalTime": "3.5 tundi",
+    "prepTime": "30 minutit",
+    "cookTime": "2.5 tundi",
+    "restTime": "30 minutit",
+    "temperature": "135°C",
+    "temperaturePhases": [
+      {
+        "temperature": "135°C",
+        "duration": "1.5 tundi",
+        "description": "Suitsutamine õunapuu suitsuga"
+      },
+      {
+        "temperature": "135°C",
+        "duration": "1 tund",
+        "description": "Küpsetamine fooliumis koos lisanditega"
+      }
+    ],
+    "difficulty": "lihtne",
+    "servings": 4
+  },
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Ribide ettevalmistamine",
+      "description": "Eemalda ribidelt kelme ja trimmi vajadusel liigne rasv või lahtised tükid.",
+      "temperature": null,
+      "duration": "10 minutit",
+      "videoTimestamp": 115,
+      "tips": [
+        "Kelme eemaldamiseks kasuta paberist käterätikut parema haarde saamiseks."
+      ],
+      "thumbnailUrl": "/images/recipes/maitsvad-ja-mahlased-sealiha-ribid/step-1.jpg"
+    },
+    {
+      "stepNumber": 2,
+      "title": "Maitsestamine",
+      "description": "Määri ribid kergelt oliiviõliga, et maitseaine paremini külge jääks. Kanna peale maitseainesegud: ühele reale Killer Hogs ja teisele Barbacoa The Champ.",
+      "temperature": null,
+      "duration": "5 minutit",
+      "videoTimestamp": 428,
+      "tips": [
+        "Suru maitseaine käega kergelt liha sisse."
+      ],
+      "thumbnailUrl": "/images/recipes/maitsvad-ja-mahlased-sealiha-ribid/step-2.jpg"
+    },
+    {
+      "stepNumber": 3,
+      "title": "Ootamine",
+      "description": "Lase maitsestatud ribidel umbes 30 minutit seista, kuni maitseaine muutub pinnal niiskeks.",
+      "temperature": null,
+      "duration": "30 minutit",
+      "videoTimestamp": 601,
+      "tips": [],
+      "thumbnailUrl": "/images/recipes/maitsvad-ja-mahlased-sealiha-ribid/step-3.jpg"
+    },
+    {
+      "stepNumber": 4,
+      "title": "Grilli ettevalmistamine",
+      "description": "Sea grill temperatuurile 135°C ja lisa õunapuu suitsuklotsid.",
+      "temperature": "135°C",
+      "duration": "10 minutit",
+      "videoTimestamp": 644,
+      "tips": [],
+      "thumbnailUrl": "/images/recipes/maitsvad-ja-mahlased-sealiha-ribid/step-4.jpg"
+    },
+    {
+      "stepNumber": 5,
+      "title": "Suitsutamine",
+      "description": "Aseta ribid grillile ja suitsuta umbes 1.5 tundi, kuni maitseaine on lihale kinnitunud (bark on tekkinud).",
+      "temperature": "135°C",
+      "duration": "1.5 tundi",
+      "videoTimestamp": 650,
+      "tips": [
+        "Kontrolli maitseaine kinnitumist näpuga katsudes."
+      ],
+      "thumbnailUrl": "/images/recipes/maitsvad-ja-mahlased-sealiha-ribid/step-5.jpg"
+    },
+    {
+      "stepNumber": 6,
+      "title": "Fooliumisse pakkimine",
+      "description": "Võta topeltkiht fooliumi. Pane fooliumile või, pruun suhkur ja Blues Hog Tennessee Red kaste. Aseta ribid liha pool allpool sinna peale. Lisa sama segu ka ribide peale ja paki foolium tihedalt kinni.",
+      "temperature": null,
+      "duration": "10 minutit",
+      "videoTimestamp": 709,
+      "tips": [],
+      "thumbnailUrl": "/images/recipes/maitsvad-ja-mahlased-sealiha-ribid/step-6.jpg"
+    },
+    {
+      "stepNumber": 7,
+      "title": "Küpsetamine fooliumis",
+      "description": "Pane pakitud ribid tagasi grillile ja küpseta umbes 1 tund, kuni liha on pehme.",
+      "temperature": "135°C",
+      "duration": "1 tund",
+      "videoTimestamp": 863,
+      "tips": [
+        "Liha on valmis, kui termomeeter läheb sellest läbi nagu soojast võist (sisetemperatuur on umbes 95-98°C)."
+      ],
+      "thumbnailUrl": "/images/recipes/maitsvad-ja-mahlased-sealiha-ribid/step-7.jpg"
+    },
+    {
+      "stepNumber": 8,
+      "title": "Puhkamine",
+      "description": "Võta ribid grillilt ja lase neil fooliumis umbes 30 minutit puhata.",
+      "temperature": null,
+      "duration": "30 minutit",
+      "videoTimestamp": 918,
+      "tips": [],
+      "thumbnailUrl": "/images/recipes/maitsvad-ja-mahlased-sealiha-ribid/step-8.jpg"
+    },
+    {
+      "stepNumber": 9,
+      "title": "Glasuurimine",
+      "description": "Sega kokku Blues Hog Original ja Tennessee Red kaste (vahekorras 50/50). Pintselda ribid seguga kokku ja pane 5-10 minutiks grillile, et glasuur kinnituks.",
+      "temperature": "135°C",
+      "duration": "10 minutit",
+      "videoTimestamp": 925,
+      "tips": [],
+      "thumbnailUrl": "/images/recipes/maitsvad-ja-mahlased-sealiha-ribid/step-9.jpg"
+    },
+    {
+      "stepNumber": 10,
+      "title": "Serveerimine",
+      "description": "Lõika ribid tükkideks ja serveeri.",
+      "temperature": null,
+      "duration": "5 minutit",
+      "videoTimestamp": 1041,
+      "tips": [],
+      "thumbnailUrl": "/images/recipes/maitsvad-ja-mahlased-sealiha-ribid/step-10.jpg"
+    }
+  ],
+  "tags": [
+    "siga",
+    "ribid",
+    "suitsutamine",
+    "killer hogs",
+    "barbacoa",
+    "blues hog",
+    "grillimine"
+  ],
+  "relatedRecipes": [],
+  "createdAt": "2026-05-10",
+  "updatedAt": "2026-05-10"
+}
